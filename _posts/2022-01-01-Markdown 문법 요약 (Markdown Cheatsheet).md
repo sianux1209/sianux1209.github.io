@@ -1,11 +1,13 @@
 ---
-title: "Markdown 문법 정리 (Markdown Cheatsheet)"
+title: "Markdown 문법 요약 (Markdown Cheatsheet)"
 categories:
   - 기타
 tags:
   - Markdown
   - Cheatsheet
 ---
+
+> Markdown 문법을 간단하게 Cheatsheet 형식으로 정리합니다.
 
 규칙명 | 사용법
 ---------- | ----------
