@@ -106,7 +106,7 @@ author:
   avatar           : "/assets/images/profile.jpg"
   bio              : "Security & Software Engineer<br>Flutter Developer"
   location         : "Republic of Korea"
-  email            :
+  email            : "sianuxx@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -292,4 +292,4 @@ defaults:
       share: true
       related: true
 
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
