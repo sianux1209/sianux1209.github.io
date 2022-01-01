@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "TwoGirls"
   avatar           : "/assets/images/profile.jpg"
-  bio              : "Security & Software Engineer"
+  bio              : "Security & Software Engineer<br>Flutter Developer"
   location         : "Republic of Korea"
   email            :
   links:
