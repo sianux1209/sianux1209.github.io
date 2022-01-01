@@ -108,9 +108,6 @@ author:
   location         : "Republic of Korea"
   email            : "sianuxx@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sianuxx@gmail.com"
     #- label: "Website"
       #icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -291,5 +288,3 @@ defaults:
       comments: false
       share: true
       related: true
-
-#theme: jekyll-theme-cayman
