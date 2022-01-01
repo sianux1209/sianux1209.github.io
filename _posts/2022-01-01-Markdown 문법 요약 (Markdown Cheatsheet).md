@@ -7,7 +7,7 @@ tags:
   - Cheatsheet
 ---
 
-> Markdown 문법을 간단하게 Cheatsheet 형식으로 정리합니다.
+> Markdown 문법을 간단하게 Cheatsheet 형식으로 정리
 
 규칙명 | 사용법
 ---------- | ----------
