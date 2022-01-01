@@ -7,9 +7,6 @@ tags:
   - Cheatsheet
 ---
 
-# Markdown 문법 정리 (markdown cheatsheet)
-
-
 규칙명 | 사용법
 ---------- | ----------
 Heading1 | # comment |
