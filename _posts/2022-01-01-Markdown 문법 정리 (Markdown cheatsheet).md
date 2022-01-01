@@ -1,5 +1,5 @@
 ---
-title: "Markdown 문법 정리 (markdown cheatsheet)"
+title: "Markdown 문법 정리 (Markdown Cheatsheet)"
 categories:
   - 기타
 tags:
