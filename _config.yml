@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR"
 title                    : "TwoGirl's Awesome Blog"
 title_separator          : "-"
-subtitle                 : "Ver 1.0"
+subtitle                 : 
 name                     : "TwoGirls"
 description              : "Information Security & Software Engineering Blog. Flutter Developer"
 url                      : "https://sianux1209.github.io"
