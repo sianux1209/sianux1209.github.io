@@ -288,3 +288,7 @@ defaults:
       comments: false
       share: true
       related: true
+
+# external Script
+head_scripts:
+  - https://developers.kakao.com/sdk/js/kakao.min.js
