@@ -1,5 +1,5 @@
 ---
-title: "Markdown 문법 요약 (Markdown Cheatsheet)"
+title: "마크다운 문법 정리 (Markdown Cheatsheet)"
 categories:
   - etc
 tags:
@@ -7,7 +7,7 @@ tags:
   - Cheatsheet
 ---
 
-> Markdown 문법을 간단하게 Cheatsheet 형식으로 정리
+> 마크다운(Markdown) 문법을 간단하게 Cheatsheet 형식으로 요약
 
 규칙명 | 사용법
 ---------- | ----------
