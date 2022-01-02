@@ -136,7 +136,8 @@ $(document).ready(function() {
 });
 
 Kakao.init("1dd0d3c92fe38e881789d1f202f4bb27");
-var sendLink = function(){
+
+function sendLink() {
   Kakao.Link.sendCustom({
     templateId: 67899,
     templateArgs: {
@@ -144,5 +145,5 @@ var sendLink = function(){
       description: "{{ page.excerpt }}",
       url : "{{ page.url }}",
     },
-  });
+  })
 }
