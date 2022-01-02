@@ -134,3 +134,15 @@ $(document).ready(function() {
     }
   });
 });
+
+function sendLink(){
+  Kakao.init("1dd0d3c92fe38e881789d1f202f4bb27");
+  Kakao.Link.sendCustom({
+    templateId: 67899,
+    templateArgs: {
+      title: "{{ page.title }}",
+      description: "{{ page.excerpt }}",
+      url : "{{ page.url }}",
+    },
+  });
+}
