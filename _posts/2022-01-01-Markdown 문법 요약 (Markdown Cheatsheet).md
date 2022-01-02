@@ -1,7 +1,7 @@
 ---
 title: "Markdown 문법 요약 (Markdown Cheatsheet)"
 categories:
-  - 기타
+  - etc
 tags:
   - Markdown
   - Cheatsheet
