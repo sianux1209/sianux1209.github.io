@@ -13,7 +13,7 @@ tags:
 
 - 아래 사진처럼 검색하면 여러 가지 마크다운 플러그인을 확인할 수 있습니다. 이 중에서 'Markdown All in One' 플러그인을 설치해줍니다. 
 
-![img1]](assets/markdown_editor_1)
+![img1]](/assets/markdown_editor_1)
 {: .align-center}
 
 
@@ -22,7 +22,7 @@ tags:
 - 'example.md'처럼 md 확장자로 파일을 생성하고 아래 사진처럼 사이드뷰를 활성화하면 마크다운의 View를 실시간으로 확인하면서 편집할 수 있습니다.
 - 단, 실제로 업로드되는 공간의 View와 다를 수 있습니다.
 
-![img2]](assets/markdown_editor_2)
+![img2]](/assets/markdown_editor_2)
 {: .align-center}
 
 
@@ -30,7 +30,7 @@ tags:
 - [마크다운 문법 정리](https://sianux1209.github.io/etc/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC-(Markdown-Cheatsheet))
 - [Markdown All in One Plugin](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
-![img3]](assets/markdown_editor_3)
+![img3]](/assets/markdown_editor_3)
 {: .align-center}
 
 
