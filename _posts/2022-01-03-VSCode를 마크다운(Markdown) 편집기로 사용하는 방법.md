@@ -26,7 +26,7 @@ tags:
 {: .align-center}
 
 
-### 3. 마크다운 문법 및 플러그인의 사용법을 숙지합니다
+### 3. 마크다운 문법 및 플러그인 사용법 숙지
 - [마크다운 문법 정리](https://sianux1209.github.io/etc/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC-(Markdown-Cheatsheet))
 - [Markdown All in One Plugin](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
