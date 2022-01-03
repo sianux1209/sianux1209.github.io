@@ -5,6 +5,7 @@ categories:
 tags:
   - Flutter
   - IoS
+  - AWS
 ---
 
 ## AWS(Amazone Web Service) EC2 MAC Instance 활용
