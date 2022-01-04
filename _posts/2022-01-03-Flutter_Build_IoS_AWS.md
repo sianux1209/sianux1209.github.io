@@ -1,5 +1,5 @@
 ---
-title: "Windows 환경에서 Flutter IoS App을 빌드하는 방법(With AWS EC2 mac1 Instance)"
+title: "Windows 환경에서 플러터(Flutter) IoS App을 빌드하는 방법(With AWS EC2 mac1 Instance)"
 categories:
   - Flutter
 tags:
@@ -13,13 +13,13 @@ tags:
 
 ![img1]({{ site.url }}/assets/images/flutter_mac_1.png)
 
-> MAC OS가 없을 때, Windows 환경에서 AWS EC2 서비스를 이용해 Flutter로 만든 IoS App을 빌드할 수 있는 방법을 소개합니다.
+> MAC OS가 없을 때, Windows 환경에서 AWS EC2 서비스를 이용해 플러터로 만든 IoS App을 빌드할 수 있는 방법을 소개합니다.
 
 
 
-Flutter에서 IoS App을 빌드하기 위해서는 기본적으로 xcode를 실행할 수 있는 MAC OS를 요구합니다.
+플러터에서 IoS App을 빌드하기 위해서는 기본적으로 xcode를 실행할 수 있는 MAC OS를 요구합니다.
 
-하지만, Flutter를 시작하자마자 IoS를 만들기 위해 MAC PC를 구매하는 것은 큰 비용이 들게 됩니다.
+하지만, 플러터를 시작하자마자 IoS를 만들기 위해 MAC PC를 구매하는 것은 큰 비용이 들게 됩니다.
 
 AWS를 통해 필요한 시간만큼만 MAC을 대여해서 사용한다면 비용을 절감할 수 있고 MAC 환경을 비교적 저렴한 비용으로 경험해볼 수 있습니다.
 
