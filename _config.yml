@@ -20,7 +20,7 @@ title                    : "TwoGirl's Awesome Blog"
 title_separator          : "-"
 subtitle                 : 
 name                     : "TwoGirls"
-description              : "Information Security & Software Engineering Blog. Flutter Developer"
+description              : "Information Security and Software Engineering Blog. Flutter Developer."
 url                      : "https://sianux1209.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sianux1209/sianux1209.github.io"
