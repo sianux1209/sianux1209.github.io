@@ -9,7 +9,7 @@ tags:
   - MAC
 ---
 
-# AWS(Amazone Web Service) EC2 MAC Instance 활용
+## AWS(Amazone Web Service) EC2 MAC Instance 활용
 
 ![img1]({{ site.url }}/assets/images/flutter_mac_1.png)
 
@@ -31,7 +31,7 @@ AWS를 통해 필요한 시간만큼만 MAC을 대여해서 사용한다면 비�
 
 
 
-## AWS EC2 MAC1 Instance
+### AWS EC2 MAC1 Instance
 - AWS EC2(Amazon Elastic Compute Cloud)는 아마존에서 서비스하는 클라우드 컴퓨팅 서비스
 - AWS EC2 서비스에서 MAC Instance를 대여하여 사용 가능
 - AWS EC2 MAC Instance는 2020.11.30 시작한 서비스
