@@ -46,7 +46,7 @@ C:\>git clone https://github.com/flutter/flutter.git -b stable
 ### 3. 환경변수 등록하기
 
 
-다른 언어와 유사하게 아래 사진과 같이 **계정에 대한 환경 변수 편집**으로 들어가서 경로 추가가 필요합니다
+다른 개발환경 구축과 동일하게 아래 사진과 같이 **계정에 대한 환경 변수 편집**으로 들어가서 플러터 경로 추가가 필요합니다.
 
 
 ![img2]({{ site.url }}/assets/images/flutter_dev_env_2.png)
@@ -75,11 +75,11 @@ C:\>flutter --version
 ![img4]({{ site.url }}/assets/images/flutter_dev_env_4.png)
 
 
-설치가 모두 완료된 이후 Android Studio나 VSCode(VisualStudio Code)에 플러터 플러그인을 설치하면 개발환경 구축이 완료됩니다 😊
+설치가 모두 완료된 이후 `Android Studio`나 `VSCode(VisualStudio Code)`에 플러터 플러그인을 설치하면 개발환경 구축이 완료됩니다 😊
 
 
-개인적으로 플러터 개발을 할 때에는 Android Studio보다는 VSCode를 주로 사용합니다. VSCode를 주로 사용하는 이유는 주로 사용하던 개발도구이기도 하고 Android Studio보다 비교적 가볍고 편하게 느껴지기 때문입니다.
+개인적으로 플러터 개발을 할 때에는 `Android Studio`보다는 `VSCode`를 주로 사용합니다. `VSCode`를 주로 사용하는 이유는 주로 사용하던 개발도구이기도 하고 `Android Studio`보다 비교적 가볍고 편하게 느껴지기 때문입니다.
 {: .notice--info}
 
 
-더욱 자세한 내용은 [플러터 공식 웹사이트](https://docs.flutter.dev/)에서 확인하실 수 있습니다.
+자세한 내용은 [플러터 공식 웹사이트](https://docs.flutter.dev/)에서 확인하실 수 있습니다.
