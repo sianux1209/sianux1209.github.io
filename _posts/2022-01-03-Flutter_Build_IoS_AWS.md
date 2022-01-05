@@ -1,12 +1,12 @@
 ---
 title: "Windows 환경에서 플러터(Flutter) IoS App을 빌드하는 방법(With AWS EC2 mac1 Instance)"
 categories:
-  - Flutter
+  - flutter
 tags:
-  - Flutter
-  - IoS
-  - AWS
-  - MAC
+  - flutter
+  - ios
+  - aws
+  - mac
 ---
 
 ## AWS(Amazone Web Service) EC2 MAC Instance 활용
