@@ -292,6 +292,3 @@ defaults:
 # external Script
 head_scripts:
   - https://developers.kakao.com/sdk/js/kakao.min.js
-  
-# Table of contents
-  - toc: true
