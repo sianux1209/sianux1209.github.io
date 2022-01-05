@@ -8,7 +8,7 @@ tags:
   - vscode
   - extension
 toc: true
-toc_sticky: false
+toc_sticky: true
 
 ---
 
