@@ -3,8 +3,8 @@ title: "마크다운 문법 정리 (Markdown Cheatsheet)"
 categories:
   - etc
 tags:
-  - Markdown
-  - Cheatsheet
+  - markdown
+  - cheatsheet
 ---
 
 > 마크다운(Markdown) 문법을 간단하게 Cheatsheet 형식으로 요약
