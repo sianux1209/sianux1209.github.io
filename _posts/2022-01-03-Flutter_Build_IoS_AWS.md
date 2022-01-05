@@ -7,6 +7,9 @@ tags:
   - ios
   - aws
   - mac
+toc: true
+toc_sticky: true
+
 ---
 
 ## AWS(Amazone Web Service) EC2 MAC Instance 활용
