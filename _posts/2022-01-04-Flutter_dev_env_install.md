@@ -1,9 +1,9 @@
 ---
 title: "플러터(Flutter) 개발환경 구축하기"
 categories:
-  - Flutter
+  - flutter
 tags:
-  - Flutter
+  - flutter
   - development
 ---
 
