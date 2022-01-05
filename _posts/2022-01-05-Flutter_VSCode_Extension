@@ -69,5 +69,3 @@ VSCode의 아이콘을 Material Style로 설정해줍니다. Material Style의 �
 Tabnine 상위호환으로 MicroSoft에서 인수한 Github의 야심작이다. 사람들이 Github에 public으로 업로드한 소스코드들을 분석해서 AI가 코드를 추천해준다. 한줄단위 뿐만 아니라 함수 단위까지 가능하다.
 
 ![img8]({{ site.url }}/assets/images/flutter_vscode_extension_8.gif)
-
-
