@@ -1,4 +1,5 @@
 ---
+
 title: "플러터(Flutter) VSCode Extension 추천"
 categories:
   - flutter
@@ -7,6 +8,8 @@ tags:
   - vscode
   - extension
 toc: true
+toc_sticky: false
+
 ---
 
 > VSCode(Visual Studio Code)로 플러터(Flutter)를 개발할 때, 생산성을 향상시켜줄 수 있는 유용한 Extention을 소개합니다.
