@@ -3,7 +3,8 @@ title: "VSCode를 마크다운(Markdown) 편집기로 사용하는 방법"
 categories:
   - etc
 tags:
-  - Markdown
+  - markdown
+  - vscode
 ---
 
 > VSCode(Visual Studio Code)를 마크다운(Markdown) 에디터로 사용하는 방법
