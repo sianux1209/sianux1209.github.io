@@ -36,7 +36,7 @@ VSCode의 아이콘을 Material Style로 설정해줍니다. Material Style의 �
 
 ### 4. Awesome Flutter Snippets
 
-이름 그대로 Awesome한 기능을 가진 스니펫이다. 플러터 개발의 생산성을 확실히 높여줍니다.
+이름 그대로 Awesome한 기능을 가진 스니펫입니다. 플러터 개발의 생산성을 확실히 높여줍니다.
 
 예를 들어 `StatefullWidget`을 만들어야 할 때, `StatefullWidget`을 만들고 `State`도 만드는 과정이 상당히 번거롭습니다. **이 스니펫은 `StatefulW`만 입력하면 한번에 다 만들어줍니다.** 🤩
 
