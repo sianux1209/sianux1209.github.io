@@ -5,6 +5,9 @@ categories:
 tags:
   - markdown
   - vscode
+toc: true
+toc_sticky: true
+
 ---
 
 > VSCode(Visual Studio Code)를 마크다운(Markdown) 에디터로 사용하는 방법
