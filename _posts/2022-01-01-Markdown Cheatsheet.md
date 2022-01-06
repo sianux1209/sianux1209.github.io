@@ -32,7 +32,7 @@ link | \[링크명\]\(https://naver.com\)
 
 ----------
 
-### fenced codeblock
+### Fenced codeblock
 
 \`\`\`python
 
@@ -69,3 +69,21 @@ print\("example\)
 \> first
 
 \> second
+
+
+----------
+
+### Emphasis
+
+\* comment
+
+
+----------
+
+### Indent
+
+\1. comment
+  \- comment
+    \> comment
+      \* comment
+    
