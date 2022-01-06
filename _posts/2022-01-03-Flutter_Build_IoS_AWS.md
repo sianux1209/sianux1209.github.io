@@ -47,7 +47,7 @@ AWS를 통해 필요한 시간만큼만 MAC을 대여해서 사용한다면 비�
 - MAC 전용 호스트의 최소 할당 및 청구 기간 : **24시간**
 - MAC Instance의 시간당 대여 비용 : **1.083 USD**
 
-![img1]({{ site.url }}/assets/images/flutter_mac_3.png)
+![img2]({{ site.url }}/assets/images/flutter_mac_3.png)
 
 
 
