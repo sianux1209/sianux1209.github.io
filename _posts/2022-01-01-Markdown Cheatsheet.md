@@ -38,7 +38,7 @@ link | `[링크명\](https://naver.com)`
 
 \`\`\`python
 
-print\("example\)
+print\("example"\)
 
 \`\`\`
 
