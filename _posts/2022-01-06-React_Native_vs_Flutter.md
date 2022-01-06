@@ -62,7 +62,7 @@ Flutter에는 한 가지 트릭이 더 있습니다. Google에서 곧 출시할 
 React Native와 Flutter 중에서 선택할 때 프로젝트 요구사항과 문제를 고려해야 합니다. 이미 React를 알고 있다면 React Native를 사용하는 것이 좋습니다. 새로운 것을 배우고 싶거나 성능이 중요하다면 Flutter가 적절한 방법입니다.
 
 
-### 정리
+### 요약
 
 구분 | React Native | Flutter
 ---------- | ---------- | ----------
