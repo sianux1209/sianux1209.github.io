@@ -17,7 +17,7 @@ toc_sticky: true
 
 * 원문: [React Native vs Flutter: which one should you use?](https://everyday.codes/mobile/react-native-vs-flutter-which-one-should-you-use/#more-95)
 * November 27, 2019 by michael krasnov
-{: .align-center}, 
+{: .notice--info}
 
 
 ![img1](https://i0.wp.com/everyday.codes/wp-content/uploads/2019/11/React-Native-Vs-Flutter-Difference-1.jpg?w=1200&ssl=1)
@@ -27,14 +27,14 @@ toc_sticky: true
 
 최근 몇 년 동안, 많은 기업들이 네이티브  개발에서 크로스 플랫폼으로 전환함으로써 시간과 비용을 절약할 수 있다는 것을 깨닫고 있기 때문에 크로스 플랫폼 모바일 개발 속도가 꾸준히 증가하고 있습니다. 
 
-이를 도와주는 많은 프레임워크가 있으며 본 포스팅에서는 가장 인기있는 두 가지 프레임워크인 `리액트 네이티브(React Native)`와 `플러터(Flutter)`를 비교하겠습니다.
+이를 도와주는 많은 프레임워크가 있으며 본 포스팅에서는 가장 인기있는 두 가지 프레임워크인 **리액트 네이티브(React Native)**와 **플러터(Flutter)**를 비교하겠습니다.
 
 
 ### 유사점
 
-두 프레임워크는 기본적으로 `Write once, Run anywhere`라는 철학을 따릅니다.
+두 프레임워크는 기본적으로 **'Write once, Run anywhere'**라는 철학을 따릅니다.
 
-React Native와 Flutter 앱은 Android와 IOS에서 실행됩니다. 둘 다 프레임워크로 기능이 충족되지 않을 경우 Native 코드(Kotlin/Java, Swift 등) 작성을 허용합니다.
+React Native와 Flutter 앱은 모두 Android와 IOS에서 실행됩니다. 둘 다 프레임워크로 기능이 충족되지 않을 경우 Native 코드(Kotlin/Java, Swift 등) 작성을 허용합니다.
 
 두 프레임워크는 오픈소스입니다. 오픈소스는 누구나 소스코드를 자유롭게 접근 가능하고 코드를 작성하여 프로젝트에 직접 기여할 수 있음을 의미합니다.
 
