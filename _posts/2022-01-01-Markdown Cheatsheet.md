@@ -27,8 +27,8 @@ bold | `**comment**`
 strikethrough | `~~comment~~`
 code | \`comment\`
 horizontal rule | `----------`
-image | `![이미지명](/images/markdown.jpg)`
-link | `[링크명\](https://naver.com)`
+image | `![이미지명](https://exmaple.com/images/markdown.jpg)`
+link | `[링크명](https://naver.com)`
 
 ----------
 
