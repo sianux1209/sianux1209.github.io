@@ -44,20 +44,21 @@ Google Cloud에서는 전문성을 검증하고 기술을 통해 비즈니스를
 
 - Foundational(기초) : 
   - 자격증 명 : **Cloud Digital Leader**
-  - 권장 경험 : 클라우드 경험이 없는 사용자
+  - 권장 경력 : 클라우드 경험이 없는 사용자
   - 클라우드 개념과 Google Cloud 제품, 서비스, 도구, 기능, 이점, 사용 사례에 대한 광범위한 지식을 검증하고 특히 Google Cloud의 기능을 이해하고 있음을 입증합니다.
   - 이 자격증은 클라우드 지식을 습득하여 조직에 가치를 더할 수 있고 Google Cloud에 대한 실무 경험이 거의 또는 전혀 없는 비기술적 직무 역할을 맡은 개인에게 적합합니다.
 
   
 - Associate(어소시에이트)
   - 자격증 명 : **Cloud Engineer**
-  - 권장 경험 : 6개월 이상 Google Cloud 운영
+  - 권장 경력 : 6개월 이상 Google Cloud 운영
   - 어소시에이트 수준 자격증은 Google Cloud에서 프로젝트를 배포, 모니터링, 유지보수하는 기초적인 기술에 중점을 둡니다
   - 이 자격증은 클라우드를 처음 접하는 사용자에게 적합한 출발점이며 향후 프로페셔널 수준의 자격증을 취득하는 토대가 될 수 있습니다.
   - 자격증 명 : Cloud Engineer
   
 - Professional(프로페셔널)
   - 자격증 명 : **Cloud Architect, Cloud Developer, Data Engineer, Cloud DevOps Engineer, Cloud Security Engineer, Cloud Network Engineer, Collaboration Engineer, Machine Learning Engineer**
+  - 권장 경력 : Google Cloud 1년을 포함한 3년 이상의 경력
   - 프로페셔널 자격증은 핵심 기술 직무 전반을 아우르며 설계, 구현, 관리 분야의 고급 기술을 평가합니다.
   - 이 자격증은 업계 경력과 Google Cloud 제품 및 솔루션 활용 경험이 있는 사용자에게 권장됩니다.
 
