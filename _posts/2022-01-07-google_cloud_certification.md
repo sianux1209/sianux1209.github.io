@@ -1,5 +1,5 @@
 ---
-title: "GCP(Google Cloud Platform) 자격증 종류와 취득 방법"
+title: "GCP(Google Cloud Platform) 자격증 종류와 학습 방법"
 categories:
   - gcp
 tags:
@@ -11,6 +11,8 @@ toc: true
 toc_sticky: true
 
 ---
+
+> GCP(Google Coloud Platform) 관련 자격증과 이를 취득하는 방법에 대해서 알아보자
 
 ### Google Cloud
 
