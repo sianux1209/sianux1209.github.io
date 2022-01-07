@@ -30,7 +30,7 @@ GCP와 유사한 서비스로는 아마존의 AWS(Amazone Web Service)와 마이
 
 ### Google Cloud 자격증
 
-Google Cloud에서는 전문성을 검증하고 기술을 통해 비즈니스를 혁신할 수 있는 능력을 갖췄음을 입증하기 위해 자체 자격증 운영하고 있습니다.
+Google Cloud에서는 전문성을 검증하고 기술을 통해 비즈니스를 혁신할 수 있는 능력을 갖췄음을 입증하기 위해 자체 자격증 제도를 운영하고 있습니다.
 
 [2020년 Google Google Cloud 자격증 영향 보고서](https://services.google.com/fh/files/misc/2020_googlecloud_certification_impact_report.pdf)에 따르면 Goole Cloud 공인 자격증을 얻는 이유는 다음과 같습니다.
 
