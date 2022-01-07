@@ -14,9 +14,9 @@ toc_sticky: true
 
 ### Google Cloud
 
-Google Cloud는 GCP(Google Cloud Platform)와 Google Workspace를 말합니다. GCP는 구글이 제공하는 클라우드 컴퓨팅 서비스이며 Google Workspace는 이전에 G-Suite라는 이름으로 불렸던 클라우드 협업 도구입니다. 본 포스팅에서는 GCP를 중심으로 얘기합니다.
+Google Cloud는 GCP(Google Cloud Platform)와 Google Workspace를 포함하여 말합니다. GCP는 구글이 제공하는 클라우드 컴퓨팅 서비스이며 Google Workspace는 이전에 G-Suite라는 이름으로 불렸던 클라우드 협업 도구입니다. 본 포스팅에서는 GCP를 중심으로 얘기합니다.
 
-GCP와 유사한 서비스로는 아마존의 AWS(Amazone Web Service)와 마이크로소프트의 Azure가 있습니다. 이 세 개 기업은 글로벌 클라우드 서비스를 제공하는 대표적인 기업입니다.
+GCP와 유사한 서비스로는 아마존의 AWS(Amazone Web Service)와 마이크로소프트의 Azure가 있습니다. 이 세 개 기업은 글로벌 클라우드 서비스를 제공하는 대표적인 빅테크 기업입니다.
 
 글로벌 클라우드 서비스를 제공하는 3사 중 Google Cloud는 2021년 1Q 기준 9%의 시장점유율을 보유하고 있으며, 전년 동기 대비 46% 증가한 매출과 함께 지속 성장하고 있습니다.
 
@@ -30,11 +30,11 @@ GCP와 유사한 서비스로는 아마존의 AWS(Amazone Web Service)와 마이
 
 ### Google Cloud 자격증
 
-Google Cloud에서는 전문성을 검증하고 기술을 통해 비즈니스를 혁신할 수 있는 능력을 갖췄음을 입증하기 위해 자체 자격증 제도를 운영하고 있습니다.
+Google Cloud에서는 전문성을 검증하고 기술을 통해 비즈니스를 혁신할 수 있는 능력을 입증하기 위해 자체 자격증 제도를 운영하고 있습니다.
 
 [2020년 Google Google Cloud 자격증 영향 보고서](https://services.google.com/fh/files/misc/2020_googlecloud_certification_impact_report.pdf)에 따르면 Goole Cloud 공인 자격증을 얻는 이유는 다음과 같습니다.
 
-1. Google Cloud 공인 전문가의 87%는 클라우드 기술이 대해 더 많은 자신감을 갖습니다.
+1. Google Cloud 공인 전문가의 87%는 클라우드 기술에 대해 더 많은 자신감을 갖습니다.
 2. 프로페셔널 데이터 엔지니어는 2021년 가장 연봉이 많은 IT 자격증 순위에서 1위를 차지했으며, 프로페셔널 클라우드 설계자가 2위로 그 뒤를 이었습니다.
 3. Google Cloud 공인 전문가 네 명 중 한 명 이상이 직장에서 더 많은 책임과 리더십 역할을 맡았습니다.
 
