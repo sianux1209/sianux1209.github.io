@@ -33,7 +33,7 @@ StackOverflow는 2008년 Jeff Atwood와 Joel Spolsky가 만들었습니다. 이 
 
 ![img1]({{ site.url }}/assets/images/stackoverflow_question_1.png)
 
-**StackOverflow에 등록된 플러터가 태그된 질문 중에서 가장 높은 득표를 받은 질문** 은 어떤 질문일지 궁금했습니다. 그래서 한번 조사해보았습니다.
+**StackOverflow에 등록된 플러터가 태그된 질문 중에서 가장 높은 득표를 받은 질문**은 어떤 질문일지 궁금했습니다. 그래서 한번 조사해보았습니다.
 
 > 기준일: 2022-01-11
 
