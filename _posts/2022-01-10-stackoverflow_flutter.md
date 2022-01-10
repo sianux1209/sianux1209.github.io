@@ -18,13 +18,13 @@ toc_sticky: true
 
 ![img_stackOverflow](https://logovectordl.com/wp-content/uploads/2020/10/stack-overflow-logo-vector.png)
 
-StackOverflow는 StackExchange의 대표적인 웹사이트로 세계 최고의 개발자를 위한 개발자들에 의한 웹사이트입니다. 이 웹사이트는 컴퓨터 프로그래밍의 다양한 주제에 대한 질문과 답변의 기능을 합니다. 간단히 말해서 개발자들의 완벽한 Q&A 커뮤니티입니다.
+StackOverflow는 StackExchange의 대표적인 웹사이트로 세계 최고의 개발자를 위한 개발자들에 의한 웹사이트입니다. 이 웹사이트는 컴퓨터 프로그래밍의 다양한 주제에 대한 질문과 답변의 기능을 합니다. **간단히 말해서 개발자들의 완벽한 Q&A 커뮤니티입니다**.
 
 StackOverflow는 2008년 Jeff Atwood와 Joel Spolsky가 만들었습니다. 이 웹사이트의 이름은 2008년 4월 Atwood의 프로그래밍 블로그 'Coding Horror'의 독자 투표에 의해 선정되었다고 합니다.
 
-이 곳에 등록된 질문과 답변에 의해 생성된 콘텐츠는 Creative Commons License에 포함됩니다. 그러므로 질문, 답변, 및 모든 댓글은 자유롭게 공유 가능한 것입니다.
+이 곳에 등록된 질문과 답변에 의해 생성된 콘텐츠는 Creative Commons License에 포함됩니다. 그러므로 질문, 답변 및 모든 댓글은 자유롭게 공유 가능한 것입니다.
 
-전 세계 개발자들이 모여서 만든 Q&A 네트워크, 이 얼마나 멋진 일입니까???`
+*전 세계 개발자들이 모여서 만든 Q&A 네트워크, 이 얼마나 멋진 일입니까?*
 
 ----------
 
@@ -51,9 +51,9 @@ StackOverflow는 2008년 Jeff Atwood와 Joel Spolsky가 만들었습니다. 이 
 
 댓글을 통해서 2가지 방법을 알 수 있었습니다. 
 
-첫 번째 방법인 `debugShowCheckedModeBanner` 파라미터의 `false` 설정은 평소 주로 사용하는 방법입니다
+첫 번째 방법인 `debugShowCheckedModeBanner` 파라미터의 `false` 설정은 평소 주로 사용하는 방법입니다.
 
-두 번째 방법인 `Flutter Inspector` 또는 `Dart Devtools` 옵션에 `Hide Debug Mode Banner` 옵션이 있다는 건 처음 알았습니다
+두 번째 방법인 `Flutter Inspector` 또는 `Dart Devtools` 옵션에 `Hide Debug Mode Banner` 옵션이 있다는 건 처음 알았습니다.
 
 
 - 방법 1: `MaterialApp` 파라미터 설정
@@ -66,7 +66,7 @@ MaterialApp(
 
 - 방법 2: `Flutter Inspector` 또는 `Dart Devtools` 옵션 설정
 
-![img1]({{ site.url }}/assets/images/stackoverflow_question_1.png)
+![img1]({{ site.url }}/assets/images/stackoverflow_question_2.png)
 
 ----------
 
@@ -74,7 +74,7 @@ MaterialApp(
 
 > 플러터에서 16진수 색상 문자열을 어떻게 사용하나요?
 
-간단히 아래 코드와 같이 컬러를 16진수로 지정할 수 있습니다
+간단히 아래 코드와 같이 컬러를 16진수로 지정할 수 있습니다.
 
 ```dart 
   const color = const Color(0xFFB74093);
@@ -112,6 +112,7 @@ ElevatedButton(
 
 [Flutter Gallery](https://gallery.flutter.dev/)에서 예시 이미지와 소스코드를 언제든지 열람할 수 있습니다.
 
+----------
 
 ### 마치며
 
@@ -121,4 +122,4 @@ ElevatedButton(
 
 StackOverflow를 들락날락 한지는 벌써 10년 남짓이 된 듯합니다. 하지만 이렇게 StackOverflow의 특정 섹션에 대한 궁금증을 가지고 조사를 진행해본 건 처음이었습니다.
 
-지금까지 StackOverflow를 통해서 세상의 이름 모를 개발자들에게 도움을 받았으니 저 또한 도움이 될 수 있는 엔지니어로 성장하길 바랍니다
+지금까지 StackOverflow를 통해서 세상의 이름 모를 개발자들에게 도움을 받았으니 저 또한 도움이 될 수 있는 엔지니어로 성장하길 바랍니다.
