@@ -18,7 +18,7 @@ toc_sticky: true
 
 ![img_stackOverflow](https://logovectordl.com/wp-content/uploads/2020/10/stack-overflow-logo-vector.png)
 
-StackOverflow는 StackExchange의 대표적인 웹사이트로 세계 최고의 개발자를 위한 개발자들에 의한 웹사이트입니다. 이 웹사이트는 컴퓨터 프로그래밍의 다양한 주제에 대한 질문과 답변의 기능을 합니다. **간단히 말해서 개발자들의 완벽한 Q&A 커뮤니티입니다**.
+StackOverflow는 StackExchange의 대표적인 웹사이트로 개발자를 위한 개발자들에 의한 웹사이트입니다. 이 웹사이트는 컴퓨터 프로그래밍의 다양한 주제에 대한 질문과 답변의 기능을 합니다. **간단히 말해서 개발자들의 완벽한 Q&A 커뮤니티입니다**.
 
 StackOverflow는 2008년 Jeff Atwood와 Joel Spolsky가 만들었습니다. 이 웹사이트의 이름은 2008년 4월 Atwood의 프로그래밍 블로그 'Coding Horror'의 독자 투표에 의해 선정되었다고 합니다.
 
