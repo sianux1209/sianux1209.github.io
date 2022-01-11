@@ -46,12 +46,12 @@ Flutter는 Android와 IOS의 라이브러리에 종속적이기 때문에 되도
 
 ### 해결 방법
 
-> 간단히 해결하고 싶다면 Android SDK Version을 29로 낮추면 됩니다. 
+> 간단히 해결하고 싶다면 Android SDK Version을 29로 낮추면 해결됩니다. 
 
 > Android SDK Version을 30 이상으로 유지하면서 Error를 해결하고 싶다면 아래와 같이 진행하시면 됩니다.
 
 
-1. `android/build.gradle` 수정 
+1.`android/build.gradle` 수정 
 
 ```gradle
 buildscript {
@@ -73,7 +73,7 @@ buildscript {
 ----------
 
 
-2. `android/gradle/wrapper/gradle-wrapper.properties` 수정
+2.`android/gradle/wrapper/gradle-wrapper.properties` 수정
 
 ```properties
 ...
@@ -87,7 +87,7 @@ Gradle 또한 Build tool과 동일한 사유로 현재 Stable release 버전을 
 
 ----------
 
-3. 최신 Android SDK build-tools 설치
+3.최신 Android SDK build-tools 설치
 
 > 2번까지 진행하면 에러는 잡힐 가능성이 높습니다. 하지만 SDK Build tool을 업데이트 하고 에러를 해결했다는 사람도 있고, Android 개발을 계속 할 것이니 업데이트 해줍니다.
 
