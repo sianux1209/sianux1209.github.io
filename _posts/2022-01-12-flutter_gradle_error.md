@@ -26,6 +26,8 @@ Warning: Mapping new ns http://schemas.android.com/sdk/android/repo/repository2/
 Warning: Mapping new ns http://schemas.android.com/sdk/android/repo/sys-img2/02 to old ns http://schemas.android.com/sdk/android/repo/sys-img2/01
 ```
 
+----------
+
 
 ### 에러가 나는 이유
 
@@ -39,6 +41,8 @@ Flutter는 Android와 IOS의 라이브러리에 종속적이기 때문에 되도
 
 그래서 이 문제를 해결하기 위해서는 Gradle과 Gradle build tool의 Version을 맞춰주면 해결됩니다. 해결 방법은 아래서 설명합니다.
 
+
+----------
 
 ### 해결 방법
 
@@ -66,6 +70,8 @@ buildscript {
 2022.01.12 기준, Google Maven Repository에 Gradle build tool의 안정된 릴리즈 버전은 7.0.4이지만 Flutter Porject 특성상 조금이라도 높은 버전은 에러가 날 가능성이 있으므로 Stackoverflow에서 개발자들이 사용한 버전인 7.0.2 사용
 {: .notice--info}
 
+----------
+
 
 2. `android/gradle/wrapper/gradle-wrapper.properties` 수정
 
@@ -79,12 +85,16 @@ Gradle 또한 Build tool과 동일한 사유로 현재 Stable release 버전을 
 {: .notice--info}
 
 
+----------
+
 3. 최신 Android SDK build-tools 설치
 
 > 2번까지 진행하면 에러는 잡힐 가능성이 높습니다. 하지만 SDK Build tool을 업데이트 하고 에러를 해결했다는 사람도 있고, Android 개발을 계속 할 것이니 업데이트 해줍니다.
 
 ![img2]({{ site.url }}/assets/images/flutter_error_gradle_02.png)
 
+
+----------
 
 ### 마치며
 
