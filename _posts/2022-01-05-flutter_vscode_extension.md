@@ -33,7 +33,7 @@ VSCode의 아이콘을 Material Style로 설정해줍니다. Material Style의 �
 
 ### 3. Bracket Pair Colorizer 2
 
-괄호별로 다른 컬러를 입혀 변수, 함수, 클래스의 구분을 도와줍니다. 코드가 길어질 경우 괄호 때문에 에러가 나는 일이 다분하다. 경험상 이러한 사고를 확실히 줄여줍니다.
+괄호별로 다른 컬러를 입혀 변수, 함수, 클래스의 구분을 도와줍니다. 코드가 길어질 경우 괄호 때문에 에러가 나는 일이 다분합니다. 경험상 이러한 사고를 확실히 줄여줍니다.
 
 ![img3]({{ site.url }}/assets/images/flutter_vscode_extension_3.png)
 
