@@ -1,5 +1,5 @@
 ---
-title: "앵귤러JS((AngularJS) EOS(서비스 지원 종료)"
+title: "앵귤러JS(AngularJS) EOS(서비스 지원 종료)"
 categories:
 - security
 tags:
@@ -36,7 +36,7 @@ AngularJS는 Javascript 기반 오픈소스 프론트엔드 웹 어플리케이�
 ----------
 
 
-### AngularJS의 EOL(서비스 지원 종료)
+### [AngularJS의 EOL(서비스 지원 종료)](https://docs.angularjs.org/misc/version-support-status)
 
 ![img2]({{ site.url }}/assets/images/angularjs_eos_1.png)
 
@@ -49,7 +49,7 @@ EOL로 인해서 여러 가지 지원이 종료되지만 가장 중요한 것은
 
 혹시나 아직도 AngularJS를 사용하는 개인 또는 기업이 있다면 [Angular](https://angular.io/)로의 업데이트를 수행하거나 [AngularJS XLTS 파트너](https://xlts.dev/angularjs)에게 지원을 요청하시기 바랍니다. 또는 다른 프레임워크로 전환하는 방법도 있습니다.
 
-[Angular](https://angular.io/)은 AngularJS의 후속버전이고, [AngularJS XLTS 파트너](https://xlts.dev/angularjs)는 EOL된 프레임워크를 지원하기 위한 커뮤니티 그룹입니다.
+ Angular은 AngularJS의 후속버전이고, AngularJS XLTS 파트너는 EOL된 프레임워크를 지원하기 위한 커뮤니티 그룹입니다.
 
 
 ----------
