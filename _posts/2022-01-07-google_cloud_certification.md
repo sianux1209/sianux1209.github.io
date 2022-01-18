@@ -60,7 +60,15 @@ Google Cloud에서는 전문성을 검증하고 기술을 통해 비즈니스를
   
   
 - Professional(프로페셔널)
-  - 자격증 명 : **Cloud Architect, Cloud Developer, Data Engineer, Cloud DevOps Engineer, Cloud Security Engineer, Cloud Network Engineer, Collaboration Engineer, Machine Learning Engineer**
+  - 자격증 명
+    - **Cloud Architect**
+    - **Cloud Developer**
+    - **Data Engineer**
+    - **Cloud DevOps Engineer**
+    - **Cloud Security Engineer**
+    - **Cloud Network Engineer**
+    - **Collaboration Engineer**
+    - **Machine Learning Engineer**
   - 권장 경력 : Google Cloud 1년을 포함한 3년 이상의 경력
   - 프로페셔널 자격증은 핵심 기술 직무 전반을 아우르며 설계, 구현, 관리 분야의 고급 기술을 평가합니다.
   - 이 자격증은 업계 경력과 Google Cloud 제품 및 솔루션 활용 경험이 있는 사용자에게 권장됩니다.
