@@ -57,7 +57,7 @@ Google Cloud에서는 전문성을 검증하고 기술을 통해 비즈니스를
   - 권장 경력 : 6개월 이상 Google Cloud 운영
   - 어소시에이트 수준 자격증은 Google Cloud에서 프로젝트를 배포, 모니터링, 유지보수하는 기초적인 기술에 중점을 둡니다
   - 이 자격증은 클라우드를 처음 접하는 사용자에게 적합한 출발점이며 향후 프로페셔널 수준의 자격증을 취득하는 토대가 될 수 있습니다.
-  - 자격증 명 : Cloud Engineer
+  
   
 - Professional(프로페셔널)
   - 자격증 명 : **Cloud Architect, Cloud Developer, Data Engineer, Cloud DevOps Engineer, Cloud Security Engineer, Cloud Network Engineer, Collaboration Engineer, Machine Learning Engineer**
