@@ -47,7 +47,7 @@ AngularJS는 2018.07.01 LTS 지원에 들어갔습니다. 그리고 2021.06.30 E
 
 EOL로 인해서 여러 가지 지원이 종료되지만 가장 중요한 것은 **보안 업데이트가 더이상 지원되지 않는다는 사실입니다.**
 
-혹시나 아직도 AngularJS를 사용하는 개인 또는 기업이 있다면 [Angular](https://angular.io/)로의 업데이트를 수행하거나 [AngularJS XLTS 파트너](https://xlts.dev/angularjs)에게 지원을 요청하시기 바랍니다
+혹시나 아직도 AngularJS를 사용하는 개인 또는 기업이 있다면 [Angular](https://angular.io/)로의 업데이트를 수행하거나 [AngularJS XLTS 파트너](https://xlts.dev/angularjs)에게 지원을 요청하시기 바랍니다. 또는 다른 프레임워크로 전환하는 방법도 있습니다.
 
 [Angular](https://angular.io/)은 AngularJS의 후속버전이고, [AngularJS XLTS 파트너](https://xlts.dev/angularjs)는 EOL된 프레임워크를 지원하기 위한 커뮤니티 그룹입니다.
 
