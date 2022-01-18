@@ -1,105 +1,77 @@
 ---
-title: "AngularJS EOS(서비스 지원 종료)"
+title: "앵귤러JS((AngularJS) EOS(서비스 지원 종료)"
 categories:
-  - flutter
+- security
 tags:
-  - flutter
-  - error
-  
+  - angularjs
+  - eol
+  - eos
+  - security
+
 toc: true
 toc_sticky: true
 
 ---
 
-> AngularJS가 
+> AngularJS의 지원 기간이 21.12.31일자로 만료되어 EOL(서비스 지원 종료) 일정에 들어갔다. 혹시나 아직 AngularJS를 쓰는 곳이라면 보안위협에 노출될 가능성이 있기 때문에 Angular로 프레임워크를 업그레이드하거나 다른 프레임워크로 신속히 전환하기를 바란다.
 
 
-### Error Message
+### AngularJS
 
-![img2]({{ site.url }}/assets/images/flutter_error_gradle_01.png)
+![img1](https://logowik.com/content/uploads/images/angularjs-by-google1122.jpg)
 
-```terminal
-Warning: Mapping new ns http://schemas.android.com/repository/android/common/02 to old ns http://schemas.android.com/repository/android/common/01
-Warning: Mapping new ns http://schemas.android.com/repository/android/generic/02 to old ns http://schemas.android.com/repository/android/generic/01
-Warning: Mapping new ns http://schemas.android.com/sdk/android/repo/addon2/02 to old ns http://schemas.android.com/sdk/android/repo/addon2/01
-Warning: Mapping new ns http://schemas.android.com/sdk/android/repo/repository2/02 to old ns http://schemas.android.com/sdk/android/repo/repository2/01
-Warning: Mapping new ns http://schemas.android.com/sdk/android/repo/sys-img2/02 to old ns http://schemas.android.com/sdk/android/repo/sys-img2/01
-```
-
-----------
-
-
-### 에러가 나는 이유
-
-Project의 Android SDK Version이 30 이상이면 이 에러를 만날 수 있습니다.
-
-이 에러가 발생하는 이유는 Android Gradle build 과정에서 Target Android Version, Gradle Version 그리고 Grade build tool Version이 맞지 않아서 발생하는 문제입니다.
-
-Flutter는 Android와 IOS의 라이브러리에 종속적이기 때문에 되도록이면 **새로운 버전보다 안정화된 버전을 쓰는 것이 정신건강에 이롭습니다.**
-
-그럼에도 불구하고 시간이 지남에 따라 Target Android Version과 Gradle Version은 올려야 하니 이와 같은 문제가 발생하는 것입니다.
-
-그래서 이 문제를 해결하기 위해서는 Gradle과 Gradle build tool의 Version을 맞춰주면 해결됩니다. 해결 방법은 아래서 설명합니다.
-
-
-----------
-
-### 해결 방법
-
-> 간단한 해결 방법은 Android SDK Version을 29로 낮추면 해결됩니다.
-
-> Android SDK Version을 30 이상으로 유지하면서 Error를 슈팅하고 싶다면 아래와 같이 진행하시면 됩니다.
-
-
-#### 1.`android/build.gradle` 수정 
-
-```gradle
-buildscript {
-    repositories {
-        google()
-        mavenCentral()
-    }
-
-    dependencies {
-        classpath 'com.android.tools.build:gradle:7.0.2' // Update this line
-        ...
-    }
-}
-```
-
-2022.01.12 기준, Google Maven Repository에 Gradle build tool의 안정된 릴리즈 버전은 7.0.4이지만 Flutter Porject 특성상 조금이라도 높은 버전은 에러가 날 가능성이 있으므로 Stackoverflow에서 개발자들이 사용한 버전인 7.0.2 사용
+AngluarJS는 Angluar의 1.X 버전을 말하며 이후 2.X 이후 버전대를 Angluar라고 칭합니다.
 {: .notice--info}
 
-----------
+AngularJS는 Javascript 기반 오픈소스 프론트엔드 웹 어플리케이션 프레임워크의 하나입니다. SPA(Single Page Application) 등의 여러 문제들을 해결하기 위해 탄생하였습니다.
 
+2009년 Google 직원인 Misko hevery와 Adam sbrons에 의해 최초 개발되었으며 2010.10.20 최초 발표되었습니다.
 
-#### 2.`android/gradle/wrapper/gradle-wrapper.properties` 수정
+주로 구글과 개별 커뮤니티에 의해 유지보수되고 있으며 MVC 모델과 MVVC 구조를 위한 프레임워크를 제공함으로써 웹 어플리케이션의 개발 및 테스트를 지원합니다. 
 
-```properties
-...
-distributionUrl=https\://services.gradle.org/distributions/gradle-7.2-all.zip # Update this line
+간단히 말해서 많은 개인과 기업들은 AngularJS를 사용함으로 인해서 개발 생산성이 향상되는 효과를 얻었습니다.
 
-```
-
-Gradle 또한 Build tool과 동일한 사유로 현재 Stable release 버전을 사용합니다. 7.2 버전은 제가 에러 없이 테스트 빌드에 성공한 Version
-{: .notice--info}
-
+**2021.12.31 EOL된 프레임워크입니다.**
 
 ----------
 
-#### 3.최신 Android SDK build-tools 설치
 
-> 2번까지 진행하면 에러는 잡힐 가능성이 높습니다. 하지만 SDK Build tool을 업데이트 하고 에러를 해결했다는 사람도 있고, Android 개발을 계속 할 것이니 업데이트 해줍니다.
+### AngularJS의 EOL(서비스 지원 종료)
 
-![img2]({{ site.url }}/assets/images/flutter_error_gradle_02.png)
+![img2]({{ site.url }}/assets/images/angularjs_eos_1.png)
+
+AngularJS는 2018.07.01 LTS 지원에 들어갔습니다. 그리고 2021.06.30 EOL 예정이었으나 **COVID-19의 영향으로 LTS 지원을 2021.12.31일까지 6개월 연장하였습니다.**
+
+**AngularJS EOL 일정 : 2021.12.31**
+{: .notice--danger}
+
+EOL로 인해서 여러 가지 지원이 종료되지만 가장 중요한 것은 **보안 업데이트가 더이상 지원되지 않는다는 사실입니다.**
+
+혹시나 아직도 AngularJS를 사용하는 개인 또는 기업이 있다면 [Angular](https://angular.io/)로의 업데이트를 수행하거나 [AngularJS XLTS 파트너](https://xlts.dev/angularjs)에게 지원을 요청하시기 바랍니다
+
+[Angular](https://angular.io/)은 AngularJS의 후속버전이고, [AngularJS XLTS 파트너](https://xlts.dev/angularjs)는 EOL된 프레임워크를 지원하기 위한 커뮤니티 그룹입니다.
+
+
+----------
+
+
+### EOL(서비스 지원 종료)로 인한 영향
+
+AngularJS 프레임워크가 EOL 됨으로 인해서 여러 가지 문제 또는 사고가 발생할 수 있습니다. 예를 들어 발생 가능한 문제는 **ⓐ보안취약점, ⓑ버그, ⓒ시스템 호환성** 등의 문제 등입니다.
+
+**이 중에서 발생 가능한 가능 큰 문제는 취약점으로 인한 보안사고 입니다. 더이상 서비스를 지원하지 않는 서비스에서는 취약점 패치가 어렵습니다.**
+
+더욱이 실제 서비스에서 보안사고가 발생한다면 그 결과는 기업의 큰 손실로 나타날 가능성이 있습니다. 그렇기 때문에 **EOL 예정인 서비스는 신속한 프레임워크의 전환이 필요합니다.**
 
 
 ----------
 
 ### 마치며
 
-플러터는 Cross-Platform Framework이기 때문에 Android와 IOS 등 OS의 라이브러리와 플러그인에 종속적인 특성이 있습니다. 그렇기 때문에 이와 같은 에러를 시도때도 없이 만나게 됩니다.
+AngularJS를 아직도 사용하는 기업이 있겠나 싶어 조사를 해보았습니다. 놀라운 사실은 2022.01 현재 EOL 되었음에도 불구하고 비즈니스에 AngularJS를 사용하고 있는 서비스가 존재했으며 채용을 진행하는 기업도 있었습니다.
 
-다른 개발 프로젝트보다 트러블슈팅에 대한 글이 적은 것도 사실입니다.  하지만 이런 문제를 직접 해결해가는 것도 실력 향상에 도움이 될 것이라고 생각합니다. 실제로도 에러 메시지를 유심히 보게 되는 것 같기도 합니다.
+발생해서는 안되는 일이지만, 머지않아 EOL된 AngularJS를 사용하는 서비스에 해킹사고가 발생했다는 뉴스를 볼 것만 같습니다. 보안사고가 발생하지 않기를 기도합니다🙄
 
-앞으로 개발하면서 자주 만나는 에러에 대한 해결 방법은 정리해서 포스팅할 계획입니다.
+
+AngularJS의 EOS에 대한 공식적인 내용은 [AngularJS 공식홈페이지](https://angularjs.org)에서 확인하실 수 있습니다.
+{: .notice--info}
