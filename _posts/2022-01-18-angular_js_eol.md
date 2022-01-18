@@ -1,5 +1,5 @@
 ---
-title: "앵귤러JS(AngularJS) EOS(서비스 지원 종료)"
+title: "앵귤러JS(AngularJS) EOL(서비스 지원 종료)"
 categories:
 - security
 tags:
@@ -13,19 +13,21 @@ toc_sticky: true
 
 ---
 
-> AngularJS의 지원 기간이 21.12.31일자로 만료되어 EOL(서비스 지원 종료) 일정에 들어갔다. 혹시나 아직 AngularJS를 쓰는 곳이라면 보안위협에 노출될 가능성이 있기 때문에 Angular로 프레임워크를 업그레이드하거나 다른 프레임워크로 신속히 전환하기를 바란다.
+> AngularJS의 지원 기간이 21.12.31일자로 만료되어 EOL(서비스 지원 종료) 일정에 들어갔다. 
+
+> 혹시나 아직 AngularJS를 쓰는 곳이라면 보안위협에 노출될 가능성이 있기 때문에, 프레임워크를 업그레이드하거나 다른 프레임워크로 신속히 전환하기를 바란다.
 
 
 ### AngularJS
 
 ![img1](https://logowik.com/content/uploads/images/angularjs-by-google1122.jpg)
 
-AngluarJS는 Angluar의 1.X 버전을 말하며 이후 2.X 이후 버전대를 Angluar라고 칭합니다.
+AngluarJS는 Angluar의 1.X 버전을 말하며, 이후 2.X 이후 버전을 Angluar라고 칭합니다.
 {: .notice--info}
 
 AngularJS는 Javascript 기반 오픈소스 프론트엔드 웹 어플리케이션 프레임워크의 하나입니다. SPA(Single Page Application) 등의 여러 문제들을 해결하기 위해 탄생하였습니다.
 
-2009년 Google 직원인 Misko hevery와 Adam sbrons에 의해 최초 개발되었으며 2010.10.20 최초 발표되었습니다.
+2009년 Google 직원인 Misko hevery와 Adam sbrons에 의해 최초 개발되었으며 2010.10.20 발표되었습니다. 
 
 주로 구글과 개별 커뮤니티에 의해 유지보수되고 있으며 MVC 모델과 MVVC 구조를 위한 프레임워크를 제공함으로써 웹 어플리케이션의 개발 및 테스트를 지원합니다. 
 
