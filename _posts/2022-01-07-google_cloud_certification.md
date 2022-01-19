@@ -14,6 +14,7 @@ toc_sticky: true
 
 > GCP(Google Coloud Platform) 관련 자격증과 이를 학습하는 방법에 대해서 알아보자
 
+![img](https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Logo.png)
 
 ### Google Cloud
 

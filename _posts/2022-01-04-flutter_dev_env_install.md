@@ -13,6 +13,7 @@ toc_sticky: true
 
 > 플러터(Flutter) 개발환경을 구축해보자
 
+![img](https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png)
 
 ### 1. 시스템 요구사항 확인
 - OS : Windows 7 SP1 이상 (**Win7은 EoS로 Win10 권장**)

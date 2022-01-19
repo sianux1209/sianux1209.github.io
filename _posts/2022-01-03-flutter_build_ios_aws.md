@@ -12,11 +12,12 @@ toc_sticky: true
 
 ---
 
-## AWS(Amazone Web Service) EC2 MAC Instance 활용
+> MAC OS가 없을 때, Windows 환경에서 AWS EC2 서비스를 이용해 플러터로 만든 IoS App을 빌드할 수 있는 방법을 소개합니다.
+
 
 ![img1]({{ site.url }}/assets/images/flutter_mac_1.png)
 
-> MAC OS가 없을 때, Windows 환경에서 AWS EC2 서비스를 이용해 플러터로 만든 IoS App을 빌드할 수 있는 방법을 소개합니다.
+## AWS(Amazone Web Service) EC2 MAC Instance 활용
 
 
 

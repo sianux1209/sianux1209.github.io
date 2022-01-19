@@ -13,14 +13,13 @@ toc_sticky: true
 
 ---
 
-> 본 포스팅은 플러터 관련 내용을 번역/요약하여 공유하기 위한 목적으로 작성하였습니다. 
+> 본 포스팅은 플러터 관련 내용을 번역/요약하여 공유하기 위한 목적으로 작성하였습니다.
+
+![img1](https://i0.wp.com/everyday.codes/wp-content/uploads/2019/11/React-Native-Vs-Flutter-Difference-1.jpg?w=1200&ssl=1)
 
 * 원문: [React Native vs Flutter: which one should you use?](https://everyday.codes/mobile/react-native-vs-flutter-which-one-should-you-use/#more-95)
 * November 27, 2019 by michael krasnov
 {: .notice--info}
-
-
-![img1](https://i0.wp.com/everyday.codes/wp-content/uploads/2019/11/React-Native-Vs-Flutter-Difference-1.jpg?w=1200&ssl=1)
 
 
 ### React Native VS Flutter

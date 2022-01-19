@@ -18,9 +18,9 @@ toc_sticky: true
 > 혹시나 아직 AngularJS를 쓰는 곳이라면 보안위협에 노출될 가능성이 있기 때문에, 프레임워크를 업그레이드하거나 다른 프레임워크로 신속히 전환하기를 바란다.
 
 
-### AngularJS
-
 ![img1](https://logowik.com/content/uploads/images/angularjs-by-google1122.jpg)
+
+### AngularJS
 
 AngluarJS는 Angluar의 1.X 버전을 말하며, 2.X 이후 버전을 Angluar라고 칭합니다.
 {: .notice--info}

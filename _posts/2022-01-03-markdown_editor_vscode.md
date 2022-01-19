@@ -12,6 +12,7 @@ toc_sticky: true
 
 > VSCode(Visual Studio Code)를 마크다운(Markdown) 에디터로 사용하는 방법
 
+![img1](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png)
 
 ### 1. VSCode 마켓플레이스에서 'Markdown All in One' 설치
 

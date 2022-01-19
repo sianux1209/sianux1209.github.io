@@ -13,10 +13,10 @@ toc_sticky: true
 
 > 플러터로 개발할 때 자주 만나게 되는 에러, `Warning: Mapping new ns to old ns ...` 에러를 해결하는 방법에 대해서 알아보자
 
+![img2]({{ site.url }}/assets/images/flutter_error_gradle_01.png)
+
 
 ### Error Message
-
-![img2]({{ site.url }}/assets/images/flutter_error_gradle_01.png)
 
 ```terminal
 Warning: Mapping new ns http://schemas.android.com/repository/android/common/02 to old ns http://schemas.android.com/repository/android/common/01

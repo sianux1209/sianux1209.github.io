@@ -14,6 +14,7 @@ toc_sticky: true
 
 > VSCode(Visual Studio Code)로 플러터(Flutter)를 개발할 때, 생산성을 향상시켜줄 수 있는 유용한 Extention을 소개합니다.
 
+![img](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png)
 
 ## VSCode extension for Flutter Development
 

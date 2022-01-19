@@ -12,6 +12,8 @@ toc_sticky: true
 
 > 마크다운(Markdown) 문법을 간단하게 Cheatsheet 형식으로 요약
 
+![img1](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1280px-Markdown-mark.svg.png)
+
 ### Basic Rule
 
 규칙명 | 사용법
