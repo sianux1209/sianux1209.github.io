@@ -29,7 +29,7 @@ Warning: Mapping new ns http://schemas.android.com/sdk/android/repo/sys-img2/02 
 ----------
 
 
-### 에러가 나는 이유
+### 에러가 발생하는 이유
 
 Project의 Android SDK Version이 30 이상이면 이 에러를 만날 수 있습니다.
 
