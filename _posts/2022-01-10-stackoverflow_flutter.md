@@ -14,9 +14,10 @@ toc_sticky: true
 > StackOverflow에 대해서 알아보고 이 곳에 게재되어 있는 질문 중 가장 높은 투표 수를 얻은 3개의 Best 질문에 대해 확인해보자.
 
 
+![img_stackOverflow](https://logovectordl.com/wp-content/uploads/2020/10/stack-overflow-logo-vector.png)
+
 ### Stack Overflow
 
-![img_stackOverflow](https://logovectordl.com/wp-content/uploads/2020/10/stack-overflow-logo-vector.png)
 
 StackOverflow는 StackExchange의 대표적인 웹사이트로 개발자를 위한 개발자들에 의한 웹사이트입니다. 이 웹사이트는 컴퓨터 프로그래밍의 다양한 주제에 대한 질문과 답변의 기능을 합니다. **간단히 말해서 개발자들의 완벽한 Q&A 커뮤니티입니다**.
 
