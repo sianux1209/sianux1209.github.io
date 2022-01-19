@@ -1,5 +1,5 @@
 ---
-title: "플러터(Flutter) Error - Warning: Mapping new ns to old ns ..."
+title: "[Flutter Error] Warning: Mapping new ns to old ns ..."
 categories:
   - flutter
 tags:

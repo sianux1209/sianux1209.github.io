@@ -1,5 +1,5 @@
 ---
-title: "Windows 환경에서 플러터(Flutter) IoS App을 빌드하는 방법(With AWS EC2 mac1 Instance)"
+title: "Windows 환경에서 플러터(Flutter) IoS App을 빌드하는 방법(With AWS)"
 categories:
   - flutter
 tags:

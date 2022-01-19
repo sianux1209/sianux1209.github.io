@@ -1,5 +1,5 @@
 ---
-title: "[번역/요약] 리액트 네이티브(React Native) vs 플러터(Flutter) : 어떤 것을 사용해야 할까요?"
+title: "리액트 네이티브(React Native) vs 플러터(Flutter) : Choice"
 categories:
   - flutter
 tags:
