@@ -13,7 +13,7 @@ toc_sticky: true
 
 > 플러터(Flutter) 개발환경을 구축해보자
 
-![img](https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png)
+![img1](https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png)
 
 ### 1. 시스템 요구사항 확인
 - OS : Windows 7 SP1 이상 (**Win7은 EoS로 Win10 권장**)
@@ -34,7 +34,7 @@ C:\>git
 [플러터 공식 웹사이트](https://docs.flutter.dev/get-started/install/windows)에서 다운로드 및 압축 풀기
 
 
-![img1]({{ site.url }}/assets/images/flutter_dev_env_1.png)
+![img2]({{ site.url }}/assets/images/flutter_dev_env_1.png)
 
 
 경로는 권한상승이 필요 없는 `C:\` 등의 경로로 설정해야 합니다
@@ -53,13 +53,13 @@ C:\>git clone https://github.com/flutter/flutter.git -b stable
 다른 개발환경 구축과 동일하게 아래 사진과 같이 **계정에 대한 환경 변수 편집**으로 들어가서 플러터 경로 추가가 필요합니다.
 
 
-![img2]({{ site.url }}/assets/images/flutter_dev_env_2.png)
+![img3]({{ site.url }}/assets/images/flutter_dev_env_2.png)
 
 
 **사용자 변수** 아래의 Path에 `flutter/bin` 경로를 추가합니다
 
 
-![img3]({{ site.url }}/assets/images/flutter_dev_env_3.png)
+![img4]({{ site.url }}/assets/images/flutter_dev_env_3.png)
 
 
 ### 4. 플러터 설치 확인하기
@@ -76,7 +76,7 @@ C:\>flutter --version
 
 만약에 정상적으로 설치되어 있지 않다면 어떤 설정이 추가로 필요한지 친절하게 알려줍니다.
 
-![img4]({{ site.url }}/assets/images/flutter_dev_env_4.png)
+![img5]({{ site.url }}/assets/images/flutter_dev_env_4.png)
 
 
 설치가 모두 완료된 이후 `Android Studio`나 `VSCode(VisualStudio Code)`에 플러터 플러그인을 설치하면 개발환경 구축이 완료됩니다 😊

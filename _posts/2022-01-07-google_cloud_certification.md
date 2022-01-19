@@ -14,7 +14,7 @@ toc_sticky: true
 
 > GCP(Google Coloud Platform) 관련 자격증과 이를 학습하는 방법에 대해서 알아보자
 
-![img](https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Logo.png)
+![img1](https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Logo.png)
 
 ### Google Cloud
 
@@ -26,7 +26,7 @@ GCP와 유사한 서비스로는 아마존의 AWS(Amazone Web Service)와 마이
 
 2018년도에는 Google의 Global Cloud 점유율의 5%를 기록하고 있었으나 단 4년만에 4%의 점유율을 끌어올리며 공격적인 성장세를 보이고 있습니다.
 
-![img1](https://cdn.statcdn.com/Infographic/images/normal/18819.jpeg)
+![img2](https://cdn.statcdn.com/Infographic/images/normal/18819.jpeg)
 
 
 ----------
@@ -85,7 +85,7 @@ Google Cloud에서는 사용자들의 클라우드 역량 강화를 위해 각 �
 
 다만, 교육과 자격증 시험이 한국어를 지원하지 않기 때문에 영어로 진행하셔야 함을 숙지하시기 바랍니다.
 
-![img1]({{ site.url }}/assets/images/gcp_certi.png)
+![img3]({{ site.url }}/assets/images/gcp_certi.png)
 
 
 더욱 자세한 내용은 [GCP 공식 웹사이트](https://cloud.google.com/)에서 확인하실 수 있습니다.

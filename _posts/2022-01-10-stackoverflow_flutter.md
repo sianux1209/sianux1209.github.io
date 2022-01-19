@@ -14,7 +14,7 @@ toc_sticky: true
 > StackOverflow에 대해서 알아보고 이 곳에 게재되어 있는 질문 중 가장 높은 투표 수를 얻은 3개의 Best 질문에 대해 확인해보자.
 
 
-![img_stackOverflow](https://logovectordl.com/wp-content/uploads/2020/10/stack-overflow-logo-vector.png)
+![img1](https://logovectordl.com/wp-content/uploads/2020/10/stack-overflow-logo-vector.png)
 
 ### Stack Overflow
 
@@ -32,7 +32,7 @@ StackOverflow는 2008년 Jeff Atwood와 Joel Spolsky가 만들었습니다. 이 
 
 ### Best Question 3 (With Flutter Tag)
 
-![img1]({{ site.url }}/assets/images/stackoverflow_question_1.png)
+![img2]({{ site.url }}/assets/images/stackoverflow_question_1.png)
 
 **StackOverflow에 등록된 플러터가 태그된 질문 중에서 가장 높은 득표를 받은 질문**은 어떤 질문일지 궁금했습니다. 그래서 한번 조사해보았습니다.
 
@@ -67,7 +67,7 @@ MaterialApp(
 
 - 방법 2: `Flutter Inspector` 또는 `Dart Devtools` 옵션 설정
 
-![img1]({{ site.url }}/assets/images/stackoverflow_question_2.png)
+![img3]({{ site.url }}/assets/images/stackoverflow_question_2.png)
 
 ----------
 
