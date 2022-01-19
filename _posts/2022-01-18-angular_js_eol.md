@@ -22,7 +22,7 @@ toc_sticky: true
 
 ![img1](https://logowik.com/content/uploads/images/angularjs-by-google1122.jpg)
 
-AngluarJS는 Angluar의 1.X 버전을 말하며, 이후 2.X 이후 버전을 Angluar라고 칭합니다.
+AngluarJS는 Angluar의 1.X 버전을 말하며, 2.X 이후 버전을 Angluar라고 칭합니다.
 {: .notice--info}
 
 AngularJS는 Javascript 기반 오픈소스 프론트엔드 웹 어플리케이션 프레임워크의 하나입니다. SPA(Single Page Application) 등의 여러 문제들을 해결하기 위해 탄생하였습니다.
