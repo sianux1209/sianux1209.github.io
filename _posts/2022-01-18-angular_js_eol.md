@@ -13,9 +13,9 @@ toc_sticky: true
 
 ---
 
-> AngularJS의 지원 기간이 21.12.31일자로 만료되어 EOL(End of Life:서비스 지원 종료) 일정에 들어갔다. 
+> AngularJS의 지원 기간이 21.12.31일자로 만료되어 EOL(End of Life:서비스 지원 종료) 일정에 들어갔습니다.
 
-> 혹시나 아직 AngularJS를 쓰는 곳이라면 보안위협에 노출될 가능성이 있기 때문에, 프레임워크를 업그레이드하거나 다른 프레임워크로 신속히 전환하기를 바란다.
+> 혹시나 아직 AngularJS를 쓰는 곳이라면 보안위협에 노출될 가능성이 있기 때문에, 프레임워크를 업그레이드하거나 다른 프레임워크로 신속히 전환하기를 바랍니다.
 
 
 ![img1](https://logowik.com/content/uploads/images/angularjs-by-google1122.jpg)
@@ -47,7 +47,7 @@ AngularJS는 2018.07.01 LTS 지원에 들어갔습니다. 그리고 2021.06.30 E
 **AngularJS EOL 일정 : 2021.12.31**
 {: .notice--danger}
 
-EOL로 인해서 여러 가지 지원이 종료되지만 가장 중요한 것은 **보안 업데이트가 더이상 지원되지 않는다는 사실입니다.**
+EOL로 인해서 여러 가지 지원이 종료되지만 가장 중요한 것은 **보안 업데이트를 더이상 지원되지 않는다는 것입니다.**
 
 혹시나 아직도 AngularJS를 사용하는 개인 또는 기업이 있다면 [Angular](https://angular.io/)로의 업데이트를 수행하거나 [AngularJS XLTS 파트너](https://xlts.dev/angularjs)에게 지원을 요청하시기 바랍니다. 또는 다른 프레임워크로 전환하는 방법도 있습니다.
 
