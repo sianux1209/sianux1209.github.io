@@ -1,5 +1,5 @@
 ---
-title: "[Flutter pub] 플러터 패키지를 사용하는 방법"
+title: "Flutter package(pub) : 플러터 패키지 사용법"
 categories:
 - flutter
 tags:
