@@ -58,17 +58,15 @@ Flutter에서 BLoC를 활용하면 **UI와 비즈니스 로직이 직관적으�
 다만, BLoC로 구현할 경우에 코드의 양이 많아지므로 소규모 프로젝트에서 굳이 사용할 필요는 없습니다.
 
 
-#### 장점
+- 장점
+  - UI와 비즈니스 로직의 분리
+  - 유지보수성 향상
+  - TDD에 효과적
 
-- UI와 비즈니스 로직의 분리
-- 유지보수성 향상
-- TDD에 효과적
 
-
-#### 단점
-
-- 복잡한 소스코드 구조
-- 학습의 어려움
+- 단점
+  - 복잡한 소스코드 구조
+  - 학습의 어려움
 
 ----------
 
@@ -133,7 +131,7 @@ lib/counter/counter.dart | counter 캡슐화
 
 #### 4. 소스코드 상세
 
-##### lib/counter_observer.dart
+- lib/counter_observer.dart
 
 `BlocObserver` 클래스를 상속받아 `CounterObserver` 클래스를 만들고 상태 변화를 감시하는 `onChange()`를 구현합니다.
 
@@ -156,7 +154,7 @@ class CounterObserver extends BlocObserver {
 ----------
 
 
-##### lib/main.dart
+- lib/main.dart
 
 State를 감시할 위젯을 `BlocOverrides.runZoned()`로 감싸고 `lib/counter_observer.dart`에서 구현한 `CounterObserver()`를 감시할 위젯인 `RunApp`에 연결합니다.
 
@@ -180,7 +178,7 @@ void main() {
 
 ----------
 
-##### lib/app.dart
+- lib/app.dart
 
 `MaterialApp` 클래스를 `CouterApp` 클래스가 상속받아 `CounterPage()`를 Home으로 페이지 라우트합니다.
 
@@ -201,7 +199,7 @@ class CounterApp extends MaterialApp {
 ----------
 
 
-##### lib/counter/view/counter_page.dart
+- lib/counter/view/counter_page.dart
 
 `BlocPrivider()`로 Business Logic인 `CounterCubit()`와 View인 `CounterView()`로 분리합니다.
 
@@ -232,7 +230,7 @@ class CounterPage extends StatelessWidget {
 ----------
 
 
-##### lib/counter/cubit/counter_cubit.dart
+- lib/counter/cubit/counter_cubit.dart
 
 `CounterView()`에서 상태변화를 호출하면 `CounterCubit` 클래스의 호출된 함수가 상태를 변화시킵니다.
 
@@ -258,7 +256,7 @@ class CounterCubit extends Cubit<int> {
 
 ----------
 
-##### lib/counter/view/counter_view.dart
+- lib/counter/view/counter_view.dart
 
 View에 UI를 그리고 state를 호출합니다. 이 예제에서는 아래와 같이 state를 호출하고 있습니다.
 
@@ -313,7 +311,7 @@ class CounterView extends StatelessWidget {
 ----------
 
 
-##### lib/counter/counter.dart
+- lib/counter/counter.dart
 
 counter의 소스코드를 캡슐화합니다. `main.dart`에서는 `counter.dart`만 import하여 counter 관련 모든 소스코드를 import할 수 있습니다.
 
