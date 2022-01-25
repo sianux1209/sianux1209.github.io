@@ -87,3 +87,6 @@ $ flutter pub get
 ![img2]({{ site.url }}/assets/images/flutter_pub_2.png)
 
 ----------
+
+플러터 패키지 사용 방법에 대한 자세한 내용은 [Flutter Docs](https://docs.flutter.dev/development/packages-and-plugins/using-packages) 또는 [pub.dev](https://pub.dev/)에서 확인하실 수 있습니다.
+{: .notice--info}
