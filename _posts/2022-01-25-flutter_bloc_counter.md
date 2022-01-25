@@ -19,11 +19,11 @@ toc_sticky: true
 
 ### BLoC(Business Logic Components)
 
-**BLoC는 디자인패턴의 하나로 Flutter의 상태관리(State management)를 위한 구글이 추천하는 방법입니다.** 다른 상태관리 패키지로는 `Provider`, `GetX` 등이 있으며 간단히 `setState()` 함수를 호출하는 방법도 있습니다.
+**BLoC는 디자인패턴의 하나로 Flutter의 상태관리(State management)를 위한 구글이 추천하는 방법**입니다. 다른 상태관리 패키지로는 `Provider`, `GetX` 등이 있으며 간단히 `setState()` 함수를 호출하는 방법도 있습니다.
 
 일반적으로 **Bloc > Provider or GetX > setState** 순으로 유지보수성이 낮아진다고 얘기할 수 있습니다. 유지보수성이 낮아진다는 말은 소스코드 간의 의존성이 강하여 변경하기 어려울 수 있다는 말입니다.
 
-Flutter의 BLoC는 UI와 비즈니스 로직을 분리하기 위해 설계된 디자인패턴입니다. Google의 Paolo Soares와 Cong Hui가 설계했으며 DartConf 2018에서 처음 발표되었습니다.
+**Flutter의 BLoC는 UI와 비즈니스 로직을 분리하기 위해 설계된 디자인패턴**입니다. Google의 Paolo Soares와 Cong Hui가 설계했으며 DartConf 2018에서 처음 발표되었습니다.
 
 ----------
 
@@ -34,20 +34,20 @@ Flutter의 BLoC는 UI와 비즈니스 로직을 분리하기 위해 설계된 �
 
 ![img2](https://www.didierboelens.com/images/blog/streams_bloc.png)
 
-위 사진은 간단히 말해서 **위젯에 상태변화가 발생하면 BLoC를 통해 Streaming 한다는 말**입니다.
+간단히 말해서 **위젯에 상태변화가 발생하면 BLoC를 통해 Streaming 한다는 말**입니다.
 
 스트림을 통해 상태를 관리하기 때문에 상태가 변화할 때마다 위젯을 빌드할 필요가 없습니다. 이는 앱의 성능 면에서 큰 이점이 될 수 있습니다.
 
-설명만으로는 이해하기 어려울 수 있으므로 아래서 BLoC의 기본 예제인 Counter를 통해서 자세히 알아볼 예정입니다.
+설명만으로는 이해하기 어려울 수 있으므로 아래서 BLoC의 기본 예제인 Counter를 통해 자세히 알아봅시다.
 
 ----------
 
 
 ### BLoC의 장/단점
 
-**Flutter에서 BLoC를 활용하면 UI와 비즈니스 로직이 직관적으로 분리되게 됩니다. **
+Flutter에서 BLoC를 활용하면 **UI와 비즈니스 로직이 직관적으로 분리**되게 됩니다.
 
-그렇기 때문에 일정규모 이상의 프로젝트를 진행할 경우에 높은 유지보수성을 기대할 수 있습니다.
+그렇기 때문에 **일정규모 이상의 프로젝트에서 높은 유지보수성**을 기대할 수 있습니다.
 
 다만, BLoC로 구현할 경우에 코드의 양이 많아지므로 소규모 프로젝트에서 굳이 사용할 필요는 없습니다.
 
@@ -55,23 +55,20 @@ Flutter의 BLoC는 UI와 비즈니스 로직을 분리하기 위해 설계된 �
 #### 장점
 
 - UI와 비즈니스 로직의 분리
-
 - 유지보수성 향상
-
 - TDD에 효과적
 
 
 #### 단점
 
 - 복잡한 소스코드 구조
-
 - 학습의 어려움
 
 ----------
 
 ### Counter 예제
 
-출처 : https://github.com/felangel/bloc/blob/master/docs/fluttercountertutorial.md
+출처 : [https://github.com/felangel/bloc/blob/master/docs/fluttercountertutorial.md](https://github.com/felangel/bloc/blob/master/docs/fluttercountertutorial.md)
 {: .notice--info}
 
 #### 1. Flutter 프로젝트 생성
@@ -79,6 +76,7 @@ Flutter의 BLoC는 UI와 비즈니스 로직을 분리하기 위해 설계된 �
 플로터 프로젝트를 생성하고 아래 프로젝트 구조와 같이 파일을 생성합니다.
 
 - 프로젝트 구조 
+
 ```
 ├── lib
 │   ├── app.dart
@@ -105,9 +103,6 @@ $ flutter pub add bloc
 $ flutter pub add flutter_bloc
 ```
 
-`flutter pub add pacakge_name`을 할 경우에 `flutter pub get`이 묵시적으로 실행됩니다
-{: .notice--info}
-
 `pubspec.yaml` 파일에 직접 `dependencies`를 추가해주셔도 됩니다.
 {: .notice--info}
 
@@ -123,7 +118,7 @@ lib/main.dart | `CounterObserver()`를 감시할 위젯인 `RunApp`에 연결
 lib/app.dart | `CounterPage()` Home으로 페이지 라우트
 lib/counter/view/counter_page.dart | `BlocProvider()`로 `CounterView()`에 `CounterCubit()` State 연결
 lib/counter/cubit/counter_cubit.dart | 상태 변화 정의 `increment()`, `decrement`
-lib/counter/view/counter_view.dart | 상태 변화 호출 `context.read<CounterCubit>().increment()`, `context.read<CounterCubit>().decrement()`
+lib/counter/view/counter_view.dart | 상태 변화 전달 `context.read<CounterCubit>().increment()`, `context.read<CounterCubit>().decrement()`
 lib/counter/counter.dart | counter 캡슐화
 
 
@@ -160,7 +155,7 @@ class CounterObserver extends BlocObserver {
 State를 감시할 위젯을 `BlocOverrides.runZoned()`로 감싸고 `lib/counter_observer.dart`에서 구현한 `CounterObserver()`를 감시할 위젯인 `RunApp`에 연결합니다.
 
 `BlocOverrides.runZoned()`는 BLoC Package 8.0에 신규로 추가된 함수입니다.
-BLoC Package 8.0 이전과 이후의 비교는 [VERY GOOD VENTURES Blog](https://verygood.ventures/blog/bloc-v8-release)에서 확인하실 수 있습니다.
+BLoC Package 8.0 이전과 이후의 비교는 [VERY GOOD VENTURES Blog](https://verygood.ventures/blog/bloc-v8-release)에서 확인할 수 있습니다.
 {: .notice--info}
 
 ```dart
@@ -324,4 +319,4 @@ export 'view/counter_page.dart';
 
 ----------
 
-플러터의 BLoC 디자인패턴에 관한 자세한 내용은 [BLOC Library 웹사이트](https://bloclibrary.dev/)에서 확인하실 수 있습니다.
+플러터의 BLoC에 관한 자세한 내용은 [BLOC Library 웹사이트](https://bloclibrary.dev/)에서 확인할 수 있습니다.
