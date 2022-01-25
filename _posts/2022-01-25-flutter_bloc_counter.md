@@ -19,11 +19,17 @@ toc_sticky: true
 
 ### BLoC(Business Logic Components)
 
-**BLoC는 디자인패턴의 하나로 Flutter의 상태관리(State management)를 위한 구글이 추천하는 방법**입니다. 다른 상태관리 패키지로는 `Provider`, `GetX` 등이 있으며 간단히 `setState()` 함수를 호출하는 방법도 있습니다.
+**BLoC는 디자인패턴의 하나로 Flutter의 상태관리(State management)를 위한 구글이 추천하는 방법**입니다. 
 
-일반적으로 **Bloc > Provider or GetX > setState** 순으로 유지보수성이 낮아진다고 얘기할 수 있습니다. 유지보수성이 낮아진다는 말은 소스코드 간의 의존성이 강하여 변경하기 어려울 수 있다는 말입니다.
+다른 상태관리 패키지로는 `Provider`, `GetX` 등이 있으며 간단히 `setState()`를 호출하는 방법도 있습니다.
 
-**Flutter의 BLoC는 UI와 비즈니스 로직을 분리하기 위해 설계된 디자인패턴**입니다. Google의 Paolo Soares와 Cong Hui가 설계했으며 DartConf 2018에서 처음 발표되었습니다.
+일반적으로 **Bloc > Provider or GetX > setState** 순으로 유지보수성이 낮아진다고 얘기할 수 있습니다. 
+
+유지보수성이 낮아진다는 말은 소스코드 간의 의존성이 강하여 변경하기 어려울 수 있다는 말입니다.
+
+**Flutter의 BLoC는 UI와 비즈니스 로직을 분리하기 위해 설계된 디자인패턴**입니다. 
+
+Google의 Paolo Soares와 Cong Hui가 설계했으며 DartConf 2018에서 처음 발표되었습니다.
 
 ----------
 
