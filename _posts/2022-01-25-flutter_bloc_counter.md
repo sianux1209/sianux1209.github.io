@@ -156,7 +156,7 @@ class CounterObserver extends BlocObserver {
 
 State를 감시할 위젯을 `BlocOverrides.runZoned()`로 감싸고 `lib/counter_observer.dart`에서 구현한 `CounterObserver()`를 감시할 위젯인 `RunApp`에 연결합니다.
 
-`BlocOverrides.runZoned()`는 BLoC Package 8.0에 신규로 추가된 함수입니다
+`BlocOverrides.runZoned()`는 BLoC Package 8.0에 신규로 추가된 함수입니다.
 BLoC Package 8.0 이전과 이후의 비교는 [VERY GOOD VENTURES Blog](https://verygood.ventures/blog/bloc-v8-release)에서 확인하실 수 있습니다.
 {: .notice--info}
 
