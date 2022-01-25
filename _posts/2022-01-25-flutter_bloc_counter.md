@@ -19,7 +19,7 @@ toc_sticky: true
 
 ### BLoC(Business Logic Components)
 
-BLoC는 디자인패턴의 하나로 Flutter의 상태관리(State management)를 위한 강력한 방법입니다. 다른 상태관리 패키지로는 `Provider`, `GetX` 등이 있으며 간단히 `setState()` 함수를 호출하는 방법도 있습니다.
+**BLoC는 디자인패턴의 하나로 Flutter의 상태관리(State management)를 위한 구글이 추천하는 방법입니다.** 다른 상태관리 패키지로는 `Provider`, `GetX` 등이 있으며 간단히 `setState()` 함수를 호출하는 방법도 있습니다.
 
 일반적으로 **Bloc > Provider or GetX > setState** 순으로 유지보수성이 낮아진다고 얘기할 수 있습니다. 유지보수성이 낮아진다는 말은 소스코드 간의 의존성이 강하여 변경하기 어려울 수 있다는 말입니다.
 
@@ -34,9 +34,9 @@ Flutter의 BLoC는 UI와 비즈니스 로직을 분리하기 위해 설계된 �
 
 ![img2](https://www.didierboelens.com/images/blog/streams_bloc.png)
 
-위 사진은 간단히 말해서 위젯에 상태변화가 발생하면 BLoC를 통해 Streaming 한다는 말입니다.
+위 사진은 간단히 말해서 **위젯에 상태변화가 발생하면 BLoC를 통해 Streaming 한다는 말**입니다.
 
-스트림을 통해 상태를 관리하기 때문에 상태가 변화할 때마다 위젯을 빌드할 필요가 없습니다.
+스트림을 통해 상태를 관리하기 때문에 상태가 변화할 때마다 위젯을 빌드할 필요가 없습니다. 이는 앱의 성능 면에서 큰 이점이 될 수 있습니다.
 
 설명만으로는 이해하기 어려울 수 있으므로 아래서 BLoC의 기본 예제인 Counter를 통해서 자세히 알아볼 예정입니다.
 
@@ -45,11 +45,11 @@ Flutter의 BLoC는 UI와 비즈니스 로직을 분리하기 위해 설계된 �
 
 ### BLoC의 장/단점
 
-Flutter에서 BLoC를 활용하면 UI와 비즈니스 로직이 직관적으로 분리되게 됩니다. 
+**Flutter에서 BLoC를 활용하면 UI와 비즈니스 로직이 직관적으로 분리되게 됩니다. **
 
 그렇기 때문에 일정규모 이상의 프로젝트를 진행할 경우에 높은 유지보수성을 기대할 수 있습니다.
 
-다만, BLoC를 구현할 경우에 코드의 양이 많아지므로 소규모 프로젝트일 경우에는 굳이 사용할 필요는 없습니다.
+다만, BLoC로 구현할 경우에 코드의 양이 많아지므로 소규모 프로젝트에서 굳이 사용할 필요는 없습니다.
 
 
 #### 장점
@@ -104,6 +104,9 @@ Flutter에서 BLoC를 활용하면 UI와 비즈니스 로직이 직관적으로 
 $ flutter pub add bloc
 $ flutter pub add flutter_bloc
 ```
+
+`flutter pub add pacakge_name`을 할 경우에 `flutter pub get`이 묵시적으로 실행됩니다
+{: .notice--info}
 
 `pubspec.yaml` 파일에 직접 `dependencies`를 추가해주셔도 됩니다.
 {: .notice--info}
