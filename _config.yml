@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "TwoGirl's Awesome Blog"
 title_separator          : "-"
 subtitle                 : 
-name                     : "TwoGirls"
+name                     : "TwoGirl's Awesome Blog"
 description              : "Information Security and Software Engineering Blog. Flutter Developer."
 url                      : "https://sianux1209.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
