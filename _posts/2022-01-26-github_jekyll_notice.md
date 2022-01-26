@@ -1,5 +1,5 @@
 ---
-title: "Github Jekyll : Notice로 텍스트 강조하기"
+title: "Github blog Jekyll : Notice로 텍스트 강조하기"
 categories:
 - etc
 tags:
@@ -12,9 +12,7 @@ toc_sticky: true
 
 ---
 
-> github jekyll의 Notice로 텍스트에 하이라이트를 줄 수 있습니다. 
-
->본 포스팅은 minimal-mistakes Theme를 기준으로 작성합니다.
+> github jekyll의 Notice로 텍스트에 하이라이팅을 줄 수 있습니다. 본 포스팅은 minimal-mistakes Theme를 기준으로 작성합니다.
 
 
 ![img1](https://raw.githubusercontent.com/jekyll/brand/master/jekyll-logo-dark-solid.png)
@@ -42,19 +40,19 @@ Danger |	.notice--danger
 
 ### Notice 예시
 
-Type : **Default**
+Type : Default
 {: .notice}
 
-Type : **Primary**
+Type : Primary
 {: .notice--primary}
 
-Type : **Info**
+Type : Info
 {: .notice--info}
 
-Type : **Warning**
+Type : Warning
 {: .notice--warning}
 
-Type : **Success**
+Type : Success
 {: .notice--success}
 
 
@@ -64,19 +62,19 @@ Type : **Success**
 ### Notice 사용법
 
 ```markdown
-Type : **Default**
+Type : Default
 {: .notice}
 
-Type : **Primary**
+Type : Primary
 {: .notice--primary}
 
-Type : **Info**
+Type : Info
 {: .notice--info}
 
-Type : **Warning**
+Type : Warning
 {: .notice--warning}
 
-Type : **Success**
+Type : Success
 {: .notice--success}
 
 ```
