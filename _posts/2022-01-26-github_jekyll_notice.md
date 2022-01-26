@@ -12,7 +12,7 @@ toc_sticky: true
 
 ---
 
-> github jekyll의 Notice로 텍스트에 하이라이팅을 줄 수 있습니다. 본 포스팅은 minimal-mistakes Theme를 기준으로 작성합니다.
+> github blog jekyll의 Notice로 텍스트에 하이라이팅을 줄 수 있습니다. 본 포스팅은 minimal-mistakes Theme를 기준으로 작성합니다.
 
 
 ![img1](https://raw.githubusercontent.com/jekyll/brand/master/jekyll-logo-dark-solid.png)
@@ -21,7 +21,7 @@ toc_sticky: true
 ----------
 
 
-### Jekyll Notice Type
+### Notice Type
 
 minimal-mistakes Theme에서는 여섯 가지 Notice Type을 제공하며 커스텀하여 Notice Type을 추가할 수 있습니다.
 
