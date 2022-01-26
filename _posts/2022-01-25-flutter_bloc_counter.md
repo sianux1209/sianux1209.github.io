@@ -72,7 +72,7 @@ Flutter에서 BLoC를 활용하면 **UI와 비즈니스 로직이 직관적으�
 
 ### Counter 예제
 
-출처 : [https://github.com/felangel/bloc/blob/master/docs/fluttercountertutorial.md](https://github.com/felangel/bloc/blob/master/docs/fluttercountertutorial.md)
+출처 : [BLOC OpenSource Project](https://github.com/felangel/bloc/blob/master/docs/fluttercountertutorial.md)
 {: .notice--info}
 
 #### 1. Flutter 프로젝트 생성
