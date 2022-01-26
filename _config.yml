@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "TwoGirls"
-  avatar           : "/assets/images/profile_small.png"
+  avatar           : "/assets/images/profile_small.jpg"
   bio              : "Security & Software Engineer<br>Flutter Developer"
   location         : "Republic of Korea"
   email            : "sianuxx@gmail.com"
