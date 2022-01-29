@@ -4,6 +4,7 @@ categories:
 - etc
 tags:
   - blog
+  - google
   - adsense
   - advertisement
   - github page
