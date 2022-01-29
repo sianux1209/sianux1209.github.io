@@ -1,7 +1,7 @@
 ---
 title: "포스팅 12개로 애드센스(Adsense) 심사 합격 후기"
 categories:
-- blog
+- etc
 tags:
   - blog
   - adsense

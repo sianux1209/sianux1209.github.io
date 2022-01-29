@@ -4,7 +4,7 @@ categories:
 - etc
 tags:
   - blog
-  - github
+  - github page
   - jekyll
 
 toc: true
