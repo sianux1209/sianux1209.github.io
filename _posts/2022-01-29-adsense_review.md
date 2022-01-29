@@ -83,7 +83,8 @@ Adsense 심사 통과를 위해서 해야할 일은 당연히 양질의 콘텐�
 구체적으로 다음의 일을 해야합니다.
 
 
-- 양질의 콘텐츠 제작
+
+#### 양질의 콘텐츠 제작
 
 경쟁력 있는 콘텐츠를 가진 웹사이트를 만들어야 합니다. 
 
@@ -94,7 +95,8 @@ Adsense 심사 통과를 위해서 해야할 일은 당연히 양질의 콘텐�
 [Google Adsense 고객센터의 애드센스 자격요건](https://support.google.com/adsense/answer/7299563?hl=ko&ref_topic=1319756&visit_id=637790650706750608-1018514091&rd=1)을 확인하는 것도 하나의 방법입니다.
 
 
-- SEO 최적화(Github page, 개발 사이트 한정)
+
+#### SEO 최적화(Github page, 개발 사이트 한정)
 
 SEO(Search Engine Optimization:검색 엔진 최적화)는 구글 등의 검색 엔진에 자신의 웹사이트가 검색될 수 있도록 최적화하는 것을 말합니다.
 
