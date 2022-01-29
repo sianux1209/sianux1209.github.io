@@ -5,7 +5,7 @@ categories:
 tags:
   - blog
   - adsense
-  - Advertisement
+  - advertisement
   - github page
   - review
 
