@@ -18,7 +18,6 @@ toc_sticky: true
 
 > Github 블로그에 포스팅 12개로 애드센스(Adsensed) 심사를 통과한 애드고시 후기를 공유합니다.
 
-
 ![img1](https://upload.wikimedia.org/wikipedia/commons/c/cd/AdSense_Logo.svg)
 
 
@@ -109,5 +108,7 @@ SEO(Search Engine Optimization:검색 엔진 최적화)는 구글 등의 검색 
 
 
 Adsense 활성화에 관련하여 더욱 자세한 내용이 필요하신 경우에는 [Adsense 고객센터](https://support.google.com/adsense)에서 필요하신 정보를 찾으실 수 있을 것입니다.
+
+애드고시에 합격하기 위해서 [이 블로그](https://sianux1209.github.io)의 앞선 게시물을 참고해보시는 것도 좋은 방법일 듯합니다.
 
 다시 한번 이 글을 읽으시고 애드고시에 도전하시는 분들이 한번에 한번에 합격하셨으면 좋겠습니다😊
