@@ -7,10 +7,12 @@ tags:
   - travel
   - review
 
+toc: true
+toc_sticky: true
 ---
 
 
-> 안면도의 아일랜드 리솜의 오션타워(콘도형)에서 지낸 후기를 공유합니다.
+> 안면도 아일랜드 리솜의 오션타워(콘도형) 여행 후기를 공유합니다.
 
 ![img1]({{ site.url }}/assets/images/island_resom_review_1.jpg)
 
