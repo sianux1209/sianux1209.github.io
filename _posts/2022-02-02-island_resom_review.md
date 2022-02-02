@@ -4,6 +4,7 @@ categories:
 - travel
 tags:
   - island resom
+  - resom
   - travel
   - review
 
