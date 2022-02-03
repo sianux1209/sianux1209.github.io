@@ -11,9 +11,8 @@
         templateId: 67899,
         templateArgs: {
           title : "{{ page.title }}",
-          description : "{{ page.excerpt.p }}",
           url : "{{ page.url }}",
-          img : "{ $('img')[1].src }",
+          img : "{ $('img')[1].src; }",
         },
       });
     }
