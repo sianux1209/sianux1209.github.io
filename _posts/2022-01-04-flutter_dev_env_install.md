@@ -11,7 +11,7 @@ toc_sticky: true
 ---
 
 
-> 플러터(Flutter) 개발환경을 구축해보자
+> 플러터(Flutter) 개발환경을 구축하는 방법을 설명합니다.
 
 ![img1](https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png)
 
