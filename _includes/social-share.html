@@ -10,9 +10,10 @@
       Kakao.Link.sendCustom({
         templateId: 67899,
         templateArgs: {
-          title: "{{ page.title }}",
+          title : "{{ page.title }}",
+          description : "{{ page.excerpt }}",
           url : "{{ page.url }}",
-          img : "{{ $('img')[1].src }}",
+          img : "{ $('img')[1].src }",
         },
       });
     }
