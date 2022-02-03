@@ -8,14 +8,12 @@
     
     function sendLink(){
 
-      var imgUrl = $('img')[1].src;
-      
       Kakao.Link.sendCustom({
         templateId: 67899,
         templateArgs: {
           title : "{{ page.title }}",
           url : "{{ page.url }}",
-          img : imgUrl,
+          img : "{{ $('img')[1].src }}",
         },
       });
     }
