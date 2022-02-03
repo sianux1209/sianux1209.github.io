@@ -41,14 +41,14 @@ AWS를 통해 필요한 시간만큼만 MAC을 대여해서 사용한다면 비�
 - AWS EC2 MAC Instance는 2020.11.30 시작한 서비스
 - MAC Instance는 전용 호스트 서비스에서 확인 가능
 
-![img1]({{ site.url }}/assets/images/flutter_mac_2.png)
+![img2]({{ site.url }}/assets/images/flutter_mac_2.png)
 
 
 
 - MAC 전용 호스트의 최소 할당 및 청구 기간 : **24시간**
 - MAC Instance의 시간당 대여 비용 : **1.083 USD**
 
-![img2]({{ site.url }}/assets/images/flutter_mac_3.png)
+![img3]({{ site.url }}/assets/images/flutter_mac_3.png)
 
 
 

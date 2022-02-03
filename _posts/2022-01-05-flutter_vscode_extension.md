@@ -21,7 +21,7 @@ toc_sticky: true
 
 플러터 개발을 위한 기본 확장 프로그램. 플러터 개발환경을 셋팅하면서 가장 먼저 설치하는 Extension입니다.
 
-![img2]({{ site.url }}/assets/images/flutter_vscode_extension_1.png)
+![img1]({{ site.url }}/assets/images/flutter_vscode_extension_1.png)
 
 
 ### 2. Material-Icon-Theme
