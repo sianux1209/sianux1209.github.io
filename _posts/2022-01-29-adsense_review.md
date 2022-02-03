@@ -18,7 +18,7 @@ toc_sticky: true
 
 > Github 블로그에 포스팅 12개로 애드센스(Adsensed) 심사를 통과한 애드고시 후기를 공유합니다.
 
-![img1](https://upload.wikimedia.org/wikipedia/commons/9/97/Google_Adsense_logo.png)
+![img1]({{ site.url }}/assets/images/adsense_review_0.png)
 
 
 
