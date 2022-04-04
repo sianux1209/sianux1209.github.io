@@ -6,6 +6,7 @@ tags:
   - cryptocurrency
   - stock
   - Indicators
+  - trading
 
 toc: true
 toc_sticky: true
