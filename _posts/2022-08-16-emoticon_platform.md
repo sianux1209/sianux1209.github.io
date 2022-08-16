@@ -1,16 +1,16 @@
 ---
 title: "이모티콘 제안 플랫폼 비교/분석(카카오, 밴드, 라인 등)"
 categories:
-emoticon
+- emoticon
 tags:
-  emoticon
-  emoticon platform
-  kakaotalk
-  line
-  naver band
-  OGQ
-  mojitok
-  stickerfarm
+  - emoticon
+  - emoticon platform
+  - kakaotalk
+  - line
+  - naver band
+  - OGQ
+  - mojitok
+  - stickerfarm
 
 toc: true
 toc_sticky: true
