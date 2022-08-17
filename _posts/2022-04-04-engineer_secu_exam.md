@@ -1,11 +1,11 @@
 ---
 title: "2022년 정보보안기사 1회 필기시험 합격 후기"
 categories:
-- test
+- exam
 tags:
-  - Engineer information security
+  - engineer information security
   - review
-  - written test
+  - exam
 
 toc: true
 toc_sticky: true
