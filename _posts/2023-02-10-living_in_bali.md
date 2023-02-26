@@ -67,7 +67,7 @@ toc_sticky: true
 <!--
 발리 사진 2
 -->
-![img3]({{ site.url }}/assets/images/bali_3.jpg)
+![img3]({{ site.url }}/assets/images/bali_3.jpeg)
 
 
 
@@ -196,9 +196,9 @@ COVID 예방접종증명 사진
 <!--
 숙소 사진
 -->
-![img6]({{ site.url }}/assets/images/bali_6.jpg)
-![img7]({{ site.url }}/assets/images/bali_7.jpg)
-![img8]({{ site.url }}/assets/images/bali_8.jpg)
+![img6]({{ site.url }}/assets/images/bali_6.jpeg)
+![img7]({{ site.url }}/assets/images/bali_7.jpeg)
+![img8]({{ site.url }}/assets/images/bali_8.jpeg)
 
 
 
@@ -348,10 +348,10 @@ Potato Head beach club은 여유와 휴양을 즐길 수 있는 곳이었다.
 <!--
 비치클럽 사진
 -->
-![img13]({{ site.url }}/assets/images/bali_13.jpg)
-![img14]({{ site.url }}/assets/images/bali_14.jpg)
-![img15]({{ site.url }}/assets/images/bali_15.jpg)
-![img16]({{ site.url }}/assets/images/bali_16.jpg)
+![img13]({{ site.url }}/assets/images/bali_13.jpeg)
+![img14]({{ site.url }}/assets/images/bali_14.jpeg)
+![img15]({{ site.url }}/assets/images/bali_15.jpeg)
+![img16]({{ site.url }}/assets/images/bali_16.jpeg)
 
 ----------
 
@@ -413,9 +413,9 @@ Jimbaran에 위치한 Fish market에서는 저렴한 가격에 랍스터, 생선
 <!--
 집바란 수산시장 사진
 -->
-![img17]({{ site.url }}/assets/images/bali_17.jpg)
-![img18]({{ site.url }}/assets/images/bali_18.jpg)
-![img19]({{ site.url }}/assets/images/bali_19.jpg)
+![img17]({{ site.url }}/assets/images/bali_17.jpeg)
+![img18]({{ site.url }}/assets/images/bali_18.jpeg)
+![img19]({{ site.url }}/assets/images/bali_19.jpeg)
 
 ----------
 
@@ -467,7 +467,7 @@ Jimbaran에 위치한 Fish market에서는 저렴한 가격에 랍스터, 생선
 <!--
 Laundry Service 사진
 -->
-![img20]({{ site.url }}/assets/images/bali_20.jpg)
+![img20]({{ site.url }}/assets/images/bali_20.jpeg)
 
 
 ----------
