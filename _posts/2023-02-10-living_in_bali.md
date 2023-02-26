@@ -1,5 +1,5 @@
 ---
-title: "발리 한달살기 A-Z"
+title: "발리 한달 살기 A-Z"
 categories:
 - Trip
 tags:
