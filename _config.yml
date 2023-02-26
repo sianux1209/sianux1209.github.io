@@ -20,7 +20,7 @@ title                    : "TwoGirl's Awesome Blog"
 title_separator          : "-"
 subtitle                 : 
 name                     : "TwoGirl's Awesome Blog"
-description              : "Information Security and Software Engineering Blog. Flutter Developer."
+description              : "Information Security and Software Engineering Blog."
 url                      : "https://sianux1209.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sianux1209/sianux1209.github.io"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "TwoGirls"
   avatar           : "/assets/images/profile_small.jpg"
-  bio              : "Security & Software Engineer<br>Flutter Developer"
+  bio              : "Security & Software Engineer"
   location         : "Republic of Korea"
   email            : "sianuxx@gmail.com"
   links:
@@ -114,15 +114,15 @@ author:
     #- label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/sianux1209"
+    #- label: "Facebook"
+      #icon: "fab fa-fw fa-facebook-square"
+      #url: "https://facebook.com/sianux1209"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sianux1209"
-    #- label: "Instagram"
-      #icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/dookeol_chae"
 
 # Site Footer
 footer:
@@ -133,9 +133,9 @@ footer:
     #- label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/sianux1209"
+    #- label: "Facebook"
+      #icon: "fab fa-fw fa-facebook-square"
+      #url: "https://facebook.com/sianux1209"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sianux1209"
@@ -145,9 +145,9 @@ footer:
     #- label: "Bitbucket"
       #icon: "fab fa-fw fa-bitbucket"
       # url:
-    #- label: "Instagram"
-      #icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/dookeol_chae"
 
 
 # Reading Files
